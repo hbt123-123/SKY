@@ -1,0 +1,1575 @@
+FAIL  flags=0x1  AP06CutsceneAnim01a: bad shared
+FAIL  flags=0x1  AP06CutsceneAnim01b: bad shared
+POINTS  flags=0x1  AP06CutsceneAnim02a  v=12471
+FAIL  flags=0x1  AP06CutsceneAnim02b: bad shared
+POINTS  flags=0x1  AP13PropCoral_02  v=29
+FAIL  flags=0x1  AP13PropCoral_02b: bad shared
+FAIL  flags=0x1  AP14HangingRope_01: ZipPos overrun
+FAIL  flags=0x1  AP16Butterfly_01: bad shared
+POINTS  flags=0x1  AP21_Deer  v=82176
+FAIL  flags=0x1  AP24Apple: ZipPos overrun
+FAIL  flags=0x1  AP24Bed_01_Anim: bad shared
+FAIL  flags=0x1  AP24Bell: bad shared
+FAIL  flags=0x1  AP24BoatAnim: bad shared
+FAIL  flags=0x1  AP30_Oldman_Boat: ZipPos overrun
+FAIL  flags=0x1  AP32PearlBoat01: ZipPos overrun
+POINTS  flags=0x1  AP32PearlBoat03_CompOcc  v=4570
+FAIL  flags=0x1  AP32_FishingNet_Thrown: bad shared
+FAIL  flags=0x1  AP32_Oldman_Boat: ZipPos overrun
+FAIL  flags=0x1  AP32_Oldman_Boat_FishingRod: ZipPos overrun
+FAIL  flags=0x1  AP32_Oldman_Boat_Mast: bad shared
+FAIL  flags=0x1  AP32_Oldman_Boat_Nail: ZipPos overrun
+FAIL  flags=0x1  AP32_Oldman_Boat_Nail_02: ZipPos overrun
+FAIL  flags=0x1  AP32_Oldman_Boat_Oar: ZipPos overrun
+FAIL  flags=0x1  AP32_Oldman_Boat_Sail: bad shared
+FAIL  flags=0x1  AP32_Pearl: bad shared
+FAIL  flags=0x1  AP32_Swordfish: bad shared
+FAIL  flags=0x1  AuroraOrb_01: bad shared
+FAIL  flags=0x1  BasecampHangingCloth_03: bad shared
+FAIL  flags=0x1  BasecampHangingCloth_04: ZipPos overrun
+FAIL  flags=0x1  Before_FruitOrangePopulate_VistaDemo1Anim_CompOcc: bad shared
+FAIL  flags=0x1  BirdPerchPose02: bad shared
+POINTS  flags=0x1  Bloom_Tree  v=5414
+POINTS  flags=0x1  Bloom_Tree_WisteriaAnim2  v=377
+FAIL  flags=0x1  BlueSwingSeatAnimL: bad shared
+FAIL  flags=0x1  BlueSwingSeatAnimR: bad shared
+FAIL  flags=0x1  BoatAnim: bad shared
+FAIL  flags=0x1  BoatDayAnim_01: ZipPos overrun
+FAIL  flags=0x1  BoatDayAnim_02: ZipPos overrun
+POINTS  flags=0x1  BoatRainAnim_01  v=5446
+POINTS  flags=0x1  Body_AP04CozyPants_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1688
+POINTS  flags=0x1  Body_AP05ActorPants_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1279
+POINTS  flags=0x1  Body_AP05DancerPants_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1996
+POINTS  flags=0x1  Body_AP05JugglerPants_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1645
+POINTS  flags=0x1  Body_AP05MerchantPants_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1859
+FAIL  flags=0x1  Body_AP07CargoPants_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Body_AP07Jumpsuit_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1406
+FAIL  flags=0x1  Body_AP08BaggyPants_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Body_AP09Uniform_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1887
+POINTS  flags=0x1  Body_AP09Yeti_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1885
+FAIL  flags=0x1  Body_AP10Overalls_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Body_AP11Ancestor_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1601
+FAIL  flags=0x1  Body_AP11GreenPajama_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Body_AP11Sword_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Body_AP12BlueTunic_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Body_AP12DarkTunic_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Body_AP12GradientTunic_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Body_AP12YellowTunic_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=4968
+FAIL  flags=0x1  Body_AP13Tunic_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Body_AP14DancerSkirt_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Body_AP14JesterPants_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1805
+POINTS  flags=0x1  Body_AP14ShadowPants_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1973
+FAIL  flags=0x1  Body_AP15LightCreature_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Body_AP16BlueSeed_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1715
+FAIL  flags=0x1  Body_AP16GreenCure_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Body_AP16OrangeLove_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1693
+FAIL  flags=0x1  Body_AP16SlateRunaway_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Body_AP16WhiteCropTop_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2059
+POINTS  flags=0x1  Body_AP17Apron_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2504
+FAIL  flags=0x1  Body_AP17Injured_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Body_AP17RaggedTunic_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2149
+POINTS  flags=0x1  Body_AP18DarkRobe_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2698
+POINTS  flags=0x1  Body_AP18LightRobe_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=3031
+POINTS  flags=0x1  Body_AP19CargoShorts_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2208
+FAIL  flags=0x1  Body_AP19MonkRobe_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Body_AP20Robe_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  Body_AP21Coat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1955
+POINTS  flags=0x1  Body_AP21LinenPants_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2010
+FAIL  flags=0x1  Body_AP21RoyalDress_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Body_AP21SilkRaiment_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Body_AP22Designer_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2494
+POINTS  flags=0x1  Body_AP23CellistBasic_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2593
+POINTS  flags=0x1  Body_AP23CellistDress_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2249
+POINTS  flags=0x1  Body_AP23PianistBasic_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2507
+FAIL  flags=0x1  Body_AP23PianistSuit_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Body_AP24Bell_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Body_AP24Classic_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Body_AP24Invisible_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Body_AP24Triangle_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2026
+POINTS  flags=0x1  Body_AP25BigPants_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2327
+POINTS  flags=0x1  Body_AP25RolledSleeve_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=3088
+POINTS  flags=0x1  Body_AP25Tunic_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2373
+POINTS  flags=0x1  Body_AP25Wrap_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2761
+POINTS  flags=0x1  Body_AP26Gown_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=3260
+POINTS  flags=0x1  Body_AP26Lumberjack_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=4038
+POINTS  flags=0x1  Body_AP26Royal_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=3435
+POINTS  flags=0x1  Body_AP27Caretaker_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2597
+POINTS  flags=0x1  Body_AP27Guard_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2560
+FAIL  flags=0x1  Body_AP27Herder_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Body_AP27OldMan_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2152
+POINTS  flags=0x1  Body_AP28BirdTunic_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=3014
+POINTS  flags=0x1  Body_AP28FurTrim_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2818
+FAIL  flags=0x1  Body_AP28JellyShorts_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  Body_AP28MantaWhisperer_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2354
+POINTS  flags=0x1  Body_AP29Layered_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=4968
+POINTS  flags=0x1  Body_AP29Pleated_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2148
+POINTS  flags=0x1  Body_AP29ShortJacket_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=3005
+POINTS  flags=0x1  Body_AP30PuffyDress_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2741
+POINTS  flags=0x1  Body_AP30Romper_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=3245
+POINTS  flags=0x1  Body_AP30RuffledShirt_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2864
+POINTS  flags=0x1  Body_AP30WaistCoat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=3771
+FAIL  flags=0x1  Body_AP31WorkerDress_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Body_AP31YoungHuman_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Body_AP32CargoBroken_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Body_AP32Gown_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Body_AP32Sailor_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Body_AP32WaistScarfShorts_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Body_AnnivBeigeSuit_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2364
+FAIL  flags=0x1  Body_AnnivYellowGown_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Body_BandUniform_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Body_BirthdayShirt_05_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x1  Body_BloomGreenTunic_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=3084
+POINTS  flags=0x1  Body_BloomSunflowerDress_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2357
+FAIL  flags=0x1  Body_ClassicCivilian_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Body_ClassicDress_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Body_ClassicPants_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Body_ColorTiedJumpsuit_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Body_CrystalDress_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1795
+FAIL  flags=0x1  Body_CrystalSuit_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Body_EvergreenRobe_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1892
+POINTS  flags=0x1  Body_FashionJeans_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2421
+POINTS  flags=0x1  Body_FeastCoat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2441
+POINTS  flags=0x1  Body_FlarePants_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=2797
+POINTS  flags=0x1  Body_FortuneDragonRobe_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1988
+POINTS  flags=0x1  Body_FortuneMuralist_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2373
+FAIL  flags=0x1  Body_FortunePanelDress_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Body_FortuneSnake_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Body_FriendshipDuck_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Body_Gardener_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2516
+POINTS  flags=0x1  Body_Ghost_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=2749
+FAIL  flags=0x1  Body_Goth_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Body_GreekRobe_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2387
+POINTS  flags=0x1  Body_IvoryOveralls_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2543
+POINTS  flags=0x1  Body_LongPants_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=2749
+FAIL  flags=0x1  Body_MageRobe_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  Body_MischiefMagicDress_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=3443
+FAIL  flags=0x1  Body_MoonlightDress_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Body_MoonlightTrouser_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Body_NERibbonSkirt_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Body_NatureFlowyDress_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Body_OceanWaves_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1996
+POINTS  flags=0x1  Body_Pizzahut_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=3361
+POINTS  flags=0x1  Body_PuffyPants_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=2797
+POINTS  flags=0x1  Body_PuffyShorts_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=2819
+POINTS  flags=0x1  Body_QixiPants_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2737
+POINTS  flags=0x1  Body_RainbowDark_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2007
+POINTS  flags=0x1  Body_RainbowLight_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1892
+FAIL  flags=0x1  Body_RibbonSkirt_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Body_RibbonTieredDress_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Body_ShortPants_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=2603
+POINTS  flags=0x1  Body_SkinnyPants_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=2797
+FAIL  flags=0x1  Body_Snowman_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x1  Body_SunflowerSkirt_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2429
+POINTS  flags=0x1  Body_SunlightDress_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2795
+POINTS  flags=0x1  Body_SunlightWetsuit_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1545
+POINTS  flags=0x1  Body_SwimTrunks_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2018
+POINTS  flags=0x1  Body_TreasureDress_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=3025
+POINTS  flags=0x1  Body_TreasurePants_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2695
+POINTS  flags=0x1  Body_TriumphSkateOutfit_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2402
+POINTS  flags=0x1  Body_WarriorPants_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=2819
+POINTS  flags=0x1  Body_Witch_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2756
+POINTS  flags=0x1  Body_YellowPinafore_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=2881
+POINTS  flags=0x1  BookNightElder  v=284
+FAIL  flags=0x1  CafeCafeBalloons_01: bad shared
+FAIL  flags=0x1  CandleFruitAnim_CompOcc: bad shared
+POINTS  flags=0x1  CandleFruitTreeAnim  v=5414
+FAIL  flags=0x1  CandleSpaceFlags_01B: bad shared
+FAIL  flags=0x1  CharBirdAnim: ZipPos overrun
+POINTS  flags=0x1  CharBirdDawnAnim  v=1252
+FAIL  flags=0x1  CharBirdJayAnim: bad shared
+FAIL  flags=0x1  CharBirdJayAnim_FlapLoop: bad shared
+POINTS  flags=0x1  CharBirdLowAnim  v=153
+POINTS  flags=0x1  CharBirdLowAnim_CompOcc  v=153
+FAIL  flags=0x1  CharBlackCatAnim: bad shared
+FAIL  flags=0x1  CharBlueBirdAnim: ZipPos overrun
+FAIL  flags=0x1  CharBlueBirdFinalRideAnim: bad shared
+POINTS  flags=0x1  CharBoboAnim  v=1134
+POINTS  flags=0x1  CharCalDragonMidASimAnim  v=2490
+FAIL  flags=0x1  CharClothWeaponAAnim: ZipPos overrun
+FAIL  flags=0x1  CharClothWeaponBAnim: bad shared
+FAIL  flags=0x1  CharClothWeaponCAnim: ZipPos overrun
+FAIL  flags=0x1  CharClothWeaponDAnim: bad shared
+FAIL  flags=0x1  CharCrabAAnim: bad shared
+POINTS  flags=0x1  CharCrabBAnim_CompOcc  v=645
+FAIL  flags=0x1  CharCrabSeaAnim_CompOcc: bad shared
+POINTS  flags=0x1  CharDarkCreatureAnim  v=11928
+POINTS  flags=0x1  CharDarkCreatureAnim_CompOcc  v=11928
+POINTS  flags=0x1  CharDarkCreatureFatAnim  v=11928
+POINTS  flags=0x1  CharEnvFlowerAnim  v=707
+POINTS  flags=0x1  CharEnvFlowerGroupAnim  v=2106
+POINTS  flags=0x1  CharEnvJellyfishAnim_CompOcc  v=842
+POINTS  flags=0x1  CharEnvJellyfishGroupAnim  v=4428
+POINTS  flags=0x1  CharFishGroupAnim  v=965
+FAIL  flags=0x1  CharFishSmallSimAnim: bad shared
+POINTS  flags=0x1  CharFlyBeingMiniAAnim  v=82
+POINTS  flags=0x1  CharNPCAnimEmotesButterFly  v=102
+FAIL  flags=0x1  CharOreoAAnim_CompOcc: ZipPos overrun
+FAIL  flags=0x1  CharPastryAnim: bad shared
+FAIL  flags=0x1  CharRavenAnim: bad shared
+POINTS  flags=0x1  CharRockManAnim  v=14591
+POINTS  flags=0x1  CharSkyAPCaravanAnim  v=22016
+FAIL  flags=0x1  CharSkyKid_Body_KFCGrandpa_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyKid_Body_QixiDress_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  CharSkyKid_Body_SunflowerSkirt_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2429
+POINTS  flags=0x1  CharSkyKid_Feet_KFCGrandpa_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=492
+FAIL  flags=0x1  CharSkyKid_Feet_MidAutumnBunny_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyKid_Hair_QixiTwoBraid_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  CharSkyKid_Hat_EggPartyGuideHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=310
+POINTS  flags=0x1  CharSkyKid_Horn_CloudMusicHeadphones_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1654
+FAIL  flags=0x1  CharSkyKid_Horn_Heartpin_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  CharSkyKid_Horn_KFCGrandpa_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=470
+POINTS  flags=0x1  CharSkyKid_Horn_Sprout_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=443
+POINTS  flags=0x1  CharSkyKid_Horn_SunflowerHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=899
+FAIL  flags=0x1  CharSkyKid_Horn_SunflowerHeadband_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  CharSkyKid_Horn_SunflowerHeadwear_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=655
+FAIL  flags=0x1  CharSkyKid_Mask_KFCGrandpa_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyKid_Mask_NPC_StripAnim_ZipPos_ZipUvs_StripUv13_StripNorm: ZipPos overrun
+FAIL  flags=0x1  CharSkyKid_Neck_AP07BowTie_02_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyKid_Neck_KFCGrandpa_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x1  CharSkyKid_Neck_SunflowerTie_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=562
+POINTS  flags=0x1  CharSkyKid_Prop_AP05Xylophone_01_CompOcc  v=865
+POINTS  flags=0x0  CharSkyKid_Prop_AP10Hammock_01_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=410
+FAIL  flags=0x1  CharSkyKid_Prop_AP10Hammock_02: bad shared
+POINTS  flags=0x0  CharSkyKid_Prop_AP10Hoop_01_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=544
+POINTS  flags=0x0  CharSkyKid_Prop_AP10Tent_01_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=211
+POINTS  flags=0x0  CharSkyKid_Prop_AP10Tent_03_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=211
+FAIL  flags=0x1  CharSkyKid_Prop_AP17Chimes_CompOcc: bad shared
+POINTS  flags=0x0  CharSkyKid_Prop_AP19Camera_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=1063
+POINTS  flags=0x1  CharSkyKid_Prop_APPiano_01_CompOcc  v=940
+FAIL  flags=0x1  CharSkyKid_Prop_APPiano_02_CompOcc_CopyFrameDelay: bad shared
+POINTS  flags=0x0  CharSkyKid_Prop_Camera_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=391
+POINTS  flags=0x0  CharSkyKid_Prop_Cannon_01_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=1027
+POINTS  flags=0x0  CharSkyKid_Prop_ChairXmas_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=809
+POINTS  flags=0x0  CharSkyKid_Prop_Chair_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=184
+POINTS  flags=0x1  CharSkyKid_Prop_CloudMusicTable_CompOcc  v=2512
+POINTS  flags=0x0  CharSkyKid_Prop_CompetitionTorch_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=387
+POINTS  flags=0x0  CharSkyKid_Prop_FeastBall_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=636
+POINTS  flags=0x0  CharSkyKid_Prop_FlowerArch_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=260
+POINTS  flags=0x0  CharSkyKid_Prop_Gondola_01_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=410
+POINTS  flags=0x0  CharSkyKid_Prop_MarshmallowBundle_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm_CopyFrameDelay  v=632
+POINTS  flags=0x0  CharSkyKid_Prop_MarshmallowStick_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=60
+POINTS  flags=0x0  CharSkyKid_Prop_MischiefCat_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=880
+POINTS  flags=0x0  CharSkyKid_Prop_MischiefChair_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=1074
+POINTS  flags=0x0  CharSkyKid_Prop_MischiefPumpkin_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=1208
+POINTS  flags=0x0  CharSkyKid_Prop_PastryBackpack_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm_CopyFrameDelay  v=942
+POINTS  flags=0x0  CharSkyKid_Prop_PastryTeaTable_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=497
+POINTS  flags=0x0  CharSkyKid_Prop_PicnicBlanket_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=1871
+FAIL  flags=0x1  CharSkyKid_Prop_QixiUmbrella_CompOcc_ZipUvs_StripUv13_StripNorm: ZipPos overrun
+POINTS  flags=0x0  CharSkyKid_Prop_Seesaw_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=170
+POINTS  flags=0x0  CharSkyKid_Prop_Shield_01_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=590
+POINTS  flags=0x0  CharSkyKid_Prop_Snowman_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=855
+POINTS  flags=0x0  CharSkyKid_Prop_StarJar_A_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=200
+FAIL  flags=0x1  CharSkyKid_Prop_StarJar_B_CompOcc: bad shared
+FAIL  flags=0x1  CharSkyKid_Prop_SummerUmbrella_01_CompOcc_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x0  CharSkyKid_Prop_SummerUmbrella_02_CompOcc_ZipUvs_StripUv13_StripNorm  v=991
+FAIL  flags=0x1  CharSkyKid_Prop_Sunflower_CompOcc: bad shared
+POINTS  flags=0x0  CharSkyKid_Prop_Swing_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=207
+POINTS  flags=0x0  CharSkyKid_Prop_TeaTable_01_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=892
+POINTS  flags=0x0  CharSkyKid_Prop_VelvetBag_01_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=771
+POINTS  flags=0x0  CharSkyKid_Prop_WisteriaTea_01_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=435
+POINTS  flags=0x1  CharSkyKid_Wing_Dragonboat_01_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1611
+POINTS  flags=0x1  CharSkyKid_Wing_KFCGrandpa_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=704
+FAIL  flags=0x1  CharSkyLeviathan: bad shared
+FAIL  flags=0x1  CharSkyLighthornAdultAnim: bad shared
+FAIL  flags=0x1  CharSkyLighthornBabyAnim: bad shared
+FAIL  flags=0x1  CharSkyLighthornChildAnim: bad shared
+FAIL  flags=0x1  CharSkyLighthornTeenAnim: bad shared
+FAIL  flags=0x1  CharSkyManateeBabyAnim: bad shared
+FAIL  flags=0x1  CharSkyManateeBabyGregAnim: bad shared
+FAIL  flags=0x1  CharSkyManateeBabyLucyAnim: bad shared
+FAIL  flags=0x1  CharSkyManateeElkAnim: bad shared
+FAIL  flags=0x1  CharSkyManateeGregAnim: bad shared
+FAIL  flags=0x1  CharSkyManateeLucyAnim: bad shared
+POINTS  flags=0x1  CharSkyNPC_APFinalCineAnim  v=10749
+FAIL  flags=0x1  CharSkyNPC_Body_AP07CargoPants_01_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  CharSkyNPC_Body_AP07Jumpsuits_01_StripAnim_ZipPos_ZipUvs_StripNorm  v=1438
+POINTS  flags=0x1  CharSkyNPC_Body_AP08BaggyPants_01_StripAnim_ZipPos_ZipUvs_StripNorm  v=2300
+FAIL  flags=0x1  CharSkyNPC_Body_AP09Yeti_01_StripAnim_ZipPos_StripNorm: bad shared
+POINTS  flags=0x1  CharSkyNPC_Body_AP11KidSpirit_01_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=9304
+POINTS  flags=0x1  CharSkyNPC_Body_AP11Kid_01_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2386
+FAIL  flags=0x1  CharSkyNPC_Body_AP11Narcissist_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Body_AP12BlueTunic_01_StripAnim_ZipPos_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Body_AP12DarkTunic_01_StripAnim_ZipPos_StripNorm: bad shared
+POINTS  flags=0x1  CharSkyNPC_Body_AP12GradientTunic_01_StripAnim_ZipPos_StripNorm  v=488
+FAIL  flags=0x1  CharSkyNPC_Body_AP12YellowTunic_01_StripAnim_ZipPos_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Body_AP13Tunic_01_StripAnim_CompOcc_ZipPos_StripNorm: bad shared
+POINTS  flags=0x1  CharSkyNPC_Body_AP14DancerSkirt_01_StripAnim_ZipPos_StripNorm  v=2328
+POINTS  flags=0x1  CharSkyNPC_Body_AP14JesterPants_01_StripAnim_ZipPos_StripNorm  v=1823
+FAIL  flags=0x1  CharSkyNPC_Body_AP14ShadowPants_01_StripAnim_ZipPos_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Body_AP16BlueSeed_StripAnim_CompOcc_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Body_AP16GreenCure_StripAnim_CompOcc_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Body_AP16OrangeLove_StripAnim_CompOcc_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Body_AP16SlateRunaway_StripAnim_CompOcc_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Body_AP16WhiteCropTop_StripAnim_ZipPos_StripNorm: ZipPos overrun
+FAIL  flags=0x1  CharSkyNPC_Body_AP17Apron_StripAnim_CompOcc_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Body_AP17Injured_StripAnim_CompOcc_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Body_AP18LightRobe_StripAnim_CompOcc_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Body_AP19MonkRobe_StripAnim_CompOcc_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Body_ActorRig_StripAnim_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Body_DancerRig_StripAnim_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Body_DirectorRig_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Body_FatLaborChild_StripAnim_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  CharSkyNPC_Body_FatLaborDress_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Body_FatLaborStaff_StripAnim_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Body_FatLaborWave_StripAnim_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Body_FatLabor_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  CharSkyNPC_Body_FemaleCivilian_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2533
+POINTS  flags=0x1  CharSkyNPC_Body_JugglerRig_StripAnim_ZipPos_ZipUvs_StripNorm  v=1474
+POINTS  flags=0x1  CharSkyNPC_Body_KFCGrandpa_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=2612
+FAIL  flags=0x1  CharSkyNPC_Body_MaleCivilian_StripAnim_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  CharSkyNPC_Body_MerchantRig_StripAnim_ZipPos_ZipUvs_StripNorm  v=1995
+FAIL  flags=0x1  CharSkyNPC_Body_Moonlight_StripAnim_CompOcc_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Body_MusicianRig_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Body_QixiDress_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Body_QixiPants_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x1  CharSkyNPC_Body_RobedLadyRig_StripAnim_ZipPos_ZipUvs_StripNorm  v=2105
+POINTS  flags=0x1  CharSkyNPC_Body_ShadowChildren_StripAnim_ZipPos_ZipUvs_StripNorm  v=2745
+FAIL  flags=0x1  CharSkyNPC_Body_SkinnyIntellectual_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Body_StrongKnight_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Body_StrongLaborHammer_StripAnim_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Body_StrongLabor_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  CharSkyNPC_Body_YoungChubbyRig_StripAnim_ZipPos_ZipUvs_StripNorm  v=225
+POINTS  flags=0x1  CharSkyNPC_Body_YoungFemaleRig_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2016
+POINTS  flags=0x1  CharSkyNPC_Hair_FatLaborBun_StripAnim_ZipPos_ZipUvs_StripUv13_StripNorm  v=121
+FAIL  flags=0x1  CharSkyNPC_Hair_SkinnyIntellectualCrown_StripAnim_ZipPos_ZipUvs_StripUv13_StripNorm: ZipPos overrun
+FAIL  flags=0x1  CharSkyNPC_Horn_FatLaborChains_02_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Horn_FatLaborChains_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Horn_MCivilianChains_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Horn_SkinnyIntellectualChains_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Horn_SkinnyIntellectualCrown_StripAnim_ZipPos_ZipUvs_StripUv13_StripNorm: ZipPos overrun
+FAIL  flags=0x1  CharSkyNPC_Horn_StrongLaborChains_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Mask_FatLaborMask_StripAnim_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x1  CharSkyNPC_Mask_KnightHelmet_StripAnim_ZipPos_ZipUvs_StripUv13_StripNorm  v=287
+POINTS  flags=0x1  CharSkyNPC_Prop_Book_StripAnim_ZipPos_ZipUvs_StripNorm  v=100
+POINTS  flags=0x1  CharSkyNPC_Prop_Booze_StripAnim_ZipPos_ZipUvs_StripNorm  v=742
+POINTS  flags=0x1  CharSkyNPC_Prop_ButterflyNet_StripAnim_ZipPos_ZipUvs_StripNorm  v=879
+POINTS  flags=0x1  CharSkyNPC_Prop_Clipboard_StripAnim_ZipPos_ZipUvs_StripNorm  v=128
+FAIL  flags=0x1  CharSkyNPC_Prop_FireStick_StripAnim_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  CharSkyNPC_Prop_Flag_StripAnim_ZipPos_ZipUvs_StripNorm  v=46
+POINTS  flags=0x0  CharSkyNPC_Prop_Horn_StripAnim_ZipPos_ZipUvs_StripNorm  v=1198
+FAIL  flags=0x1  CharSkyNPC_Prop_Jar_StripAnim: bad shared
+POINTS  flags=0x1  CharSkyNPC_Prop_Oar_StripAnim_ZipPos_ZipUvs_StripNorm  v=958
+POINTS  flags=0x1  CharSkyNPC_Prop_PickAxe_StripAnim_ZipPos_ZipUvs_StripNorm  v=320
+POINTS  flags=0x1  CharSkyNPC_Prop_PowerGlove_StripAnim_ZipPos_ZipUvs_StripNorm  v=784
+POINTS  flags=0x1  CharSkyNPC_Prop_Shield_StripAnim_ZipPos_ZipUvs_StripNorm  v=66
+POINTS  flags=0x1  CharSkyNPC_Prop_Spear_StripAnim_ZipPos_ZipUvs_StripNorm  v=58
+FAIL  flags=0x1  CharSkyNPC_Prop_Sword_StripAnim_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  CharSkyNPC_Prop_Umbrella: bad shared
+POINTS  flags=0x1  CharSkyNPC_Wing_AP28CharmerCape_StripAnim_ZipPos_ZipUvs_StripUv13_StripNorm  v=2338
+POINTS  flags=0x1  CharSkyNPC_Wing_Director_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1420
+POINTS  flags=0x1  CharSkyNPC_Wing_KFCGrandpa_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=509
+FAIL  flags=0x1  CharSkyRayBabyAnim: ZipPos overrun
+POINTS  flags=0x1  CharSkyRayCAnim_CompOcc  v=1001
+FAIL  flags=0x1  CharSkyRayCNightAnim: ZipPos overrun
+FAIL  flags=0x1  CharSkyRayDNightAnim: ZipPos overrun
+FAIL  flags=0x1  CharSkyRayMotherAnim: bad shared
+FAIL  flags=0x1  CharSkyRayMotherAnim2: bad shared
+FAIL  flags=0x1  CharSkyRayMotherAnim_CompOcc: bad shared
+FAIL  flags=0x1  CharSkyRayYoungAnim_CompOcc: bad shared
+POINTS  flags=0x1  CharSkyVGCrowAnim  v=1447
+FAIL  flags=0x1  CharSkyWhaleBAnim: bad shared
+POINTS  flags=0x1  CharSpiritFatLaborAnimEmotes  v=65590
+FAIL  flags=0x1  CharWhaleQueenAnim: bad shared
+FAIL  flags=0x1  CineAP24TopHat: ZipPos overrun
+POINTS  flags=0x1  CineAncestorDawnAnc  v=7348
+POINTS  flags=0x1  CineAncestorDay000Anc  v=6715
+POINTS  flags=0x1  CineAncestorDay000Butterfly  v=82
+FAIL  flags=0x1  CineAncestorDuskElder: bad shared
+FAIL  flags=0x1  CineAncestorDuskProps: bad shared
+POINTS  flags=0x1  CineAncestorNightAncDawn  v=7348
+POINTS  flags=0x1  CineAncestorNightAncDay  v=6715
+FAIL  flags=0x1  CineAncestorNightAncDusk: bad shared
+POINTS  flags=0x1  CineAncestorNightAncNight  v=9324
+FAIL  flags=0x1  CineAncestorNightAncRain: bad shared
+POINTS  flags=0x1  CineAncestorNightAncSunsetBro  v=2588
+POINTS  flags=0x1  CineAncestorNightAncSunsetSis  v=2718
+FAIL  flags=0x1  CineAncestorNightElder: bad shared
+POINTS  flags=0x1  CineAncestorRainBattery  v=1347
+POINTS  flags=0x1  CineAncestorRainElder  v=65698
+FAIL  flags=0x1  CineAncestorRainHammer: bad shared
+FAIL  flags=0x1  CineAncestorSunsetBroAndSis: bad shared
+FAIL  flags=0x1  CineAncestorSunsetProps: bad shared
+FAIL  flags=0x1  CineCandleSpaceEndCoL1: bad shared
+FAIL  flags=0x1  CineCandleSpaceEndCoL2: bad shared
+FAIL  flags=0x1  CineCandleSpaceEndCoL3: bad shared
+FAIL  flags=0x1  CineCandleSpaceEndCoL4: bad shared
+FAIL  flags=0x1  CineCandleSpaceEndCoL5: bad shared
+FAIL  flags=0x1  CineCandleSpaceEndCoL6: bad shared
+FAIL  flags=0x1  CineCandleSpaceEndCoL7: bad shared
+FAIL  flags=0x1  CineCandleSpaceEndCrowd: bad shared
+FAIL  flags=0x1  CineCharAP24BellDress: bad shared
+FAIL  flags=0x1  CineCharAP24BellDressFull: bad shared
+FAIL  flags=0x1  CineCharAP24BellFull: bad shared
+FAIL  flags=0x1  CineCharAP24BellShoesCham: bad shared
+FAIL  flags=0x1  CineCharAP24Classic: ZipPos overrun
+FAIL  flags=0x1  CineCharAP24Little: bad shared
+POINTS  flags=0x1  CineCharAP24N  v=1283
+FAIL  flags=0x1  CineCharAP24Stripes: bad shared
+FAIL  flags=0x1  CineCharAP24TopHat: ZipPos overrun
+POINTS  flags=0x1  CineOrbitAncDawn  v=7348
+POINTS  flags=0x1  CineOrbitAncDay  v=6715
+FAIL  flags=0x1  CineOrbitAncDusk: bad shared
+POINTS  flags=0x1  CineOrbitAncNight  v=9324
+POINTS  flags=0x1  CineOrbitAncRain  v=65698
+POINTS  flags=0x1  CineOrbitAncSunset  v=5306
+POINTS  flags=0x1  CineOrbitIndividualKidFlying  v=7448
+FAIL  flags=0x1  CineOrbitKidsFlyingV: bad shared
+FAIL  flags=0x1  CineOrbitKidsFlyingV3: bad shared
+FAIL  flags=0x1  CineOrbitKidsFlyingV5: bad shared
+FAIL  flags=0x1  CineOrbitKidsFlyingVHighLOD: bad shared
+FAIL  flags=0x1  CineOrbitKidsFlyingVHighLOD2: bad shared
+POINTS  flags=0x1  CineOrbitPropBattery  v=1347
+FAIL  flags=0x1  CineOrbitPropSword: bad shared
+POINTS  flags=0x1  CinePropGongDawnCandle  v=246
+FAIL  flags=0x1  Cine_AP24ApronBody: ZipPos overrun
+FAIL  flags=0x1  Cine_AP24BellShoes: bad shared
+FAIL  flags=0x1  ClamAAnim: bad shared
+FAIL  flags=0x1  ColBirdShoutDayBird: ZipPos overrun
+POINTS  flags=0x1  ColHideAndSeekDuskKrill  v=11928
+POINTS  flags=0x1  ColLaughAtDayJars  v=694
+POINTS  flags=0x1  ColStrongDayKidToy  v=311
+FAIL  flags=0x1  ColThumbsUpDayBell: bad shared
+FAIL  flags=0x1  ColWaveDayBoat: ZipPos overrun
+FAIL  flags=0x1  ColWaveDayBoat02: ZipPos overrun
+FAIL  flags=0x1  ColWaveDayCloth: bad shared
+FAIL  flags=0x1  ColWipeBrowDayJar: bad shared
+POINTS  flags=0x1  ColYawnDayButterfly  v=82
+FAIL  flags=0x1  ConstellationSwallow: bad shared
+FAIL  flags=0x1  Crabbit_Alice: ZipPos overrun
+FAIL  flags=0x1  CreatureJellyfishLarge: ZipPos overrun
+FAIL  flags=0x1  CreditsMantaSwirlingAnim_01: bad shared
+FAIL  flags=0x1  Darkshroom_SporeA_01_Large_Radiance: bad shared
+POINTS  flags=0x1  Darkshroom_SporeA_01_lo_Radiance  v=456
+FAIL  flags=0x1  DawnFlagsAnimCham_01: ZipPos overrun
+FAIL  flags=0x1  DawnFlagsAnim_01: ZipPos overrun
+FAIL  flags=0x1  DawnFlagsAnim_02: ZipPos overrun
+FAIL  flags=0x1  DawnFlagsAnim_03: bad shared
+FAIL  flags=0x1  DawnFlagsAnim_04: bad shared
+POINTS  flags=0x1  DesertFlowerPrinceAnim  v=1515
+FAIL  flags=0x1  DoColor_ChestAnim_Empty: bad shared
+FAIL  flags=0x1  DoLoveHeart_02_CompOcc: bad shared
+FAIL  flags=0x1  DoTreasure_ChestAnim_CompOcc: bad shared
+FAIL  flags=0x1  DuskOasisAnchorChain_01: bad shared
+POINTS  flags=0x1  EnvProp_AP27ManateeFigurine  v=1244
+POINTS  flags=0x1  EtherealAurora  v=4052
+POINTS  flags=0x1  EtherealAurora_B  v=4052
+POINTS  flags=0x1  Face_AP07Sunglasses_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=566
+POINTS  flags=0x1  Face_AP19Glasses_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=352
+FAIL  flags=0x1  Face_AP19SkullJaw_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Face_AP19Straw_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm_CopyFrameDelay: bad shared
+FAIL  flags=0x1  Face_AP23Filigree_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  Face_AP26BlueWings_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=644
+FAIL  flags=0x1  Face_AP26Plume_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Face_AP27NightElder_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1141
+POINTS  flags=0x1  Face_AP28AntlerHelm_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2421
+FAIL  flags=0x1  Face_AP28RoundGlasses_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  Face_Anniversary3DGlasses_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=413
+FAIL  flags=0x1  Face_AviatorMoth_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Face_BlueSunglasses_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  Face_CurseSticker_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=276
+POINTS  flags=0x1  Face_ElderDawn_02_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=355
+POINTS  flags=0x1  Face_ElderDawn_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=999
+POINTS  flags=0x1  Face_ElderDay_02_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=325
+POINTS  flags=0x1  Face_ElderDay_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=984
+POINTS  flags=0x1  Face_ElderDusk_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1053
+POINTS  flags=0x1  Face_ElderNight_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1145
+POINTS  flags=0x1  Face_ElderRain_02_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=247
+POINTS  flags=0x1  Face_ElderRain_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1055
+FAIL  flags=0x1  Face_ElderSunsetA_02_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Face_ElderSunsetA_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1093
+POINTS  flags=0x1  Face_ElderSunsetB_02_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=158
+POINTS  flags=0x1  Face_ElderSunsetB_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1048
+POINTS  flags=0x1  Face_FlameSunglasses_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=550
+POINTS  flags=0x1  Face_HeadCrab_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=550
+FAIL  flags=0x1  Face_HeartSunglasses_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Face_IvoryBlush_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Face_Monocle_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Face_PersonalityFLove_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Face_PersonalityPurpleGlasses_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2684
+POINTS  flags=0x1  Face_PersonalityTGear_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=264
+FAIL  flags=0x1  Face_Pizzahut_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Face_Seer_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x1  Face_StarSunglasses_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=798
+POINTS  flags=0x1  Face_YetiGoggles_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=809
+POINTS  flags=0x1  Feast_RacingFinishFlag_CompOcc  v=290
+FAIL  flags=0x1  Feet_AP09UniformBoots_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Feet_AP10Overalls_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  Feet_AP17RaggedTunic_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=334
+POINTS  flags=0x1  Feet_AP19CargoShorts_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=162
+FAIL  flags=0x1  Feet_AP20LongStraps_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Feet_AP20RobeSandals_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=684
+FAIL  flags=0x1  Feet_AP20ShortStraps_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Feet_AP23WrapSandals_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Feet_AP24BellShoes_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  Feet_AP25BootShort_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=626
+FAIL  flags=0x1  Feet_AP25BootTall_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Feet_AP26LumberjackBoots_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1047
+POINTS  flags=0x1  Feet_AP27GuardBoots_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1279
+POINTS  flags=0x1  Feet_AP28FluffyBoots_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=574
+POINTS  flags=0x1  Feet_AP31Clogs_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1467
+FAIL  flags=0x1  Feet_AP32Derby_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Feet_AP32PearlShoes_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Feet_AnnivButterfly_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=896
+POINTS  flags=0x1  Feet_AuroraSneakers_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=704
+FAIL  flags=0x1  Feet_BalletFlats_Red_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Feet_BalletFlats_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Feet_BunnySlippers_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Feet_ClassicSocks_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Feet_FashionBoots_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Feet_FeastLegWarmers_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Feet_FluffyMoth_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=1486
+FAIL  flags=0x1  Feet_GothBoots_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Feet_OreoSlipper_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Feet_Qixiflats_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1086
+POINTS  flags=0x1  Feet_RainbowDarkLoafers_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=512
+POINTS  flags=0x1  Feet_RibbonShoe_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=736
+POINTS  flags=0x1  Feet_SeaFoam_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=829
+POINTS  flags=0x1  Feet_SnowBoots_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=433
+FAIL  flags=0x1  Feet_SunlightDuckFlippers_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Feet_SunlightSandals_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x1  Feet_TreasureBoots_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=963
+FAIL  flags=0x1  Feet_TriumphIceSkates_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Feet_Witch_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x1  Feet_YellowDuck_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1024
+FAIL  flags=0x1  Feet_YellowWellies_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Feet_YetiBoots_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  FlagAAnim: bad shared
+POINTS  flags=0x1  FlagDAnim  v=168
+POINTS  flags=0x1  FlagEAnim  v=408
+POINTS  flags=0x1  FlagELoseAnim  v=408
+POINTS  flags=0x1  FlagELoseAnim02  v=144
+POINTS  flags=0x1  FortuneHorse  v=1355
+POINTS  flags=0x1  FortunePony  v=1165
+FAIL  flags=0x1  FortuneSnake: bad shared
+FAIL  flags=0x1  FriendshipDuckCar02: bad shared
+POINTS  flags=0x1  Hair_AP02Bhutan_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1182
+FAIL  flags=0x1  Hair_AP02Cone_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_AP02Stupa_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=827
+POINTS  flags=0x1  Hair_AP03Barrette_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=444
+POINTS  flags=0x1  Hair_AP03Samurai_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=480
+FAIL  flags=0x1  Hair_AP03Umbrella_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_AP03Upstyle_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=969
+POINTS  flags=0x1  Hair_AP03Victorian_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=986
+POINTS  flags=0x1  Hair_AP04Ribbon_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=695
+POINTS  flags=0x1  Hair_AP04WavyBob_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=648
+POINTS  flags=0x1  Hair_AP05Dancer_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=389
+POINTS  flags=0x1  Hair_AP05Director_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=732
+FAIL  flags=0x1  Hair_AP05Juggler_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_AP05Musician_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=387
+FAIL  flags=0x1  Hair_AP06BunRound_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_AP06ConeHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_AP06Pigtails_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_AP06ScoutHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  Hair_AP06Turban_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=683
+POINTS  flags=0x1  Hair_AP06WizardHair_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=789
+POINTS  flags=0x1  Hair_AP06WizardHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=374
+FAIL  flags=0x1  Hair_AP07Balding_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_AP07BowlCut_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_AP07Braid_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_AP07Jellyfish_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_AP07Undercut_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_AP08Braid_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1497
+POINTS  flags=0x1  Hair_AP08DoubleBun_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=605
+POINTS  flags=0x1  Hair_AP08Ponytail_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=919
+FAIL  flags=0x1  Hair_AP08ShortDreads_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_AP09BambooHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1674
+POINTS  flags=0x1  Hair_AP09Hat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=930
+POINTS  flags=0x1  Hair_AP09MultiBuns_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1534
+FAIL  flags=0x1  Hair_AP09Yeti_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_AP10Bandana_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1116
+POINTS  flags=0x1  Hair_AP10FrontBraids_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1617
+POINTS  flags=0x1  Hair_AP10LongBangs_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=766
+POINTS  flags=0x1  Hair_AP10PonytailDreads_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1416
+FAIL  flags=0x1  Hair_AP10PotHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_AP10StrawCrown_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1418
+FAIL  flags=0x1  Hair_AP11ConeHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  Hair_AP11Crown_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=3366
+POINTS  flags=0x1  Hair_AP11LongWavy_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1041
+FAIL  flags=0x1  Hair_AP11Messy_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  Hair_AP11Prince_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=365
+POINTS  flags=0x1  Hair_AP11UniformHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=660
+FAIL  flags=0x1  Hair_AP12FeatherHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_AP12Goggles_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1624
+POINTS  flags=0x1  Hair_AP12RuffledLong_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1395
+POINTS  flags=0x1  Hair_AP12RuffledShort_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1233
+POINTS  flags=0x1  Hair_AP13BucketHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1162
+FAIL  flags=0x1  Hair_AP13LongBraids_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_AP13TattooBraids_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_AP14CurlyLong_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1603
+POINTS  flags=0x1  Hair_AP14HeadWrap_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=387
+FAIL  flags=0x1  Hair_AP14JesterHood_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_AP14ShadowHood_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_AP14TuftedDirector_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_AP15Jellyfish_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_AP15Krill_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=569
+FAIL  flags=0x1  Hair_AP15Manta_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_AP16ClassicAurora_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_AP16Earth_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1190
+FAIL  flags=0x1  Hair_AP16Fire_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_AP16RunawayBob_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_AP16Water_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=787
+FAIL  flags=0x1  Hair_AP16Wind_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_AP17BandanaBraid_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=936
+POINTS  flags=0x1  Hair_AP17Genius_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1304
+POINTS  flags=0x1  Hair_AP17PaperboyCap_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=623
+FAIL  flags=0x1  Hair_AP18AtlasPony_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_AP18MediumBob_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_AP18SideFade_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Hair_AP18Spiky_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_AP19DoubleBraidBack_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=298
+FAIL  flags=0x1  Hair_AP19HeadTattoo_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  Hair_AP19Skull_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1419
+FAIL  flags=0x1  Hair_AP20Beads_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_AP20MaypoleNoRibbons_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1029
+POINTS  flags=0x1  Hair_AP20Maypole_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1690
+FAIL  flags=0x1  Hair_AP20SlickBowlCut_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_AP21FancyUpdo_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=786
+FAIL  flags=0x1  Hair_AP21HunterBun_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_AP21RoyalBun_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1400
+FAIL  flags=0x1  Hair_AP21Turban_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_AP22Pigtail_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1132
+FAIL  flags=0x1  Hair_AP23CellistBun_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_AP23PianistKnot_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1172
+FAIL  flags=0x1  Hair_AP24Onion_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_AP24Triangle_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_AP25BluePaint_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_AP25Bob_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_AP26LowHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_AP27CaretakerHood_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=568
+FAIL  flags=0x1  Hair_AP27FluffyManatee_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_AP27HelmetPlumed_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=840
+FAIL  flags=0x1  Hair_AP27HelmetScarred_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  Hair_AP28Father_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2829
+POINTS  flags=0x1  Hair_AP28MantaWhisperer_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1261
+FAIL  flags=0x1  Hair_AP29Highlights_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_AP29KnotBun_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1956
+POINTS  flags=0x1  Hair_AP29LongHood_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=913
+POINTS  flags=0x1  Hair_AP30AviatorHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1115
+POINTS  flags=0x1  Hair_AP30HighPonytail_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1542
+POINTS  flags=0x1  Hair_AP30TaperDirector_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1200
+POINTS  flags=0x1  Hair_AP31AlmondBlossom_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1798
+POINTS  flags=0x1  Hair_AP31Bonnet_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1345
+POINTS  flags=0x1  Hair_AP31Starry_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1894
+FAIL  flags=0x1  Hair_AP32Coral_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_AP32HairBand_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2046
+POINTS  flags=0x1  Hair_AP32MessyCurly_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1507
+FAIL  flags=0x1  Hair_Afro_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_BackLong_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_Beard_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_BloomSpiky_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_BloomSunflowerBandana_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_BlossomPigtail_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1287
+POINTS  flags=0x1  Hair_BlueHare_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1146
+POINTS  flags=0x1  Hair_BraidedPigtail_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1500
+FAIL  flags=0x1  Hair_Bun_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_Buzz_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_CallaLily_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_ColorHeadband_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1113
+POINTS  flags=0x1  Hair_ColorTufts_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1839
+POINTS  flags=0x1  Hair_CurlyBunTwo_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=976
+POINTS  flags=0x1  Hair_CurlyBun_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=760
+POINTS  flags=0x1  Hair_Design01_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1603
+POINTS  flags=0x1  Hair_DoubleBun_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1468
+FAIL  flags=0x1  Hair_Dreads_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_ElderBro_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_ElderDawn_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_ElderDay_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_ElderDusk_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_ElderManta_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1867
+FAIL  flags=0x1  Hair_ElderNight_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_ElderRain_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1646
+FAIL  flags=0x1  Hair_ElderSis_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_Elf_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1003
+FAIL  flags=0x1  Hair_Fish_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_FortunePonytail_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1846
+POINTS  flags=0x1  Hair_FortuneSnake_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2114
+FAIL  flags=0x1  Hair_Frantic_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_FriendshipDuck_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=593
+POINTS  flags=0x1  Hair_Greek_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=954
+FAIL  flags=0x1  Hair_IvoryHatEars_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Hair_IvoryHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x1  Hair_KizunaAiPink_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1588
+FAIL  flags=0x1  Hair_KizunaAiRed_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_LionDance_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_Lion_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_LongBob_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_MarchingBand_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1449
+FAIL  flags=0x1  Hair_MessyWitch_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  Hair_MeteorPigtails_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2124
+FAIL  flags=0x1  Hair_MischiefCandy_StripAnim_CompOcc_ZipPos_StripNorm: bad shared
+FAIL  flags=0x1  Hair_MischiefCatEars_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_MischiefCat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_MischiefFeatherHat_StripAnim_CompOcc_ZipPos_StripNorm: bad shared
+FAIL  flags=0x1  Hair_MischiefSmoked_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_Mohawk_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_MoonlightUpdo_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1308
+POINTS  flags=0x1  Hair_NatureFloating_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1385
+POINTS  flags=0x1  Hair_NatureWater_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1965
+FAIL  flags=0x1  Hair_OneSideL_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_OneSideM_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_OneSideS_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_PastryShort_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_PigtailLow_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1103
+FAIL  flags=0x1  Hair_PigtailPuffy_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_PigtailSmall_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_Pigtail_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1393
+FAIL  flags=0x1  Hair_PonytailShaggy_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  Hair_PonytailShort_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=475
+FAIL  flags=0x1  Hair_PonytailSide_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_Ponytail_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1207
+FAIL  flags=0x1  Hair_Puff_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_Pumpkin_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_Punk_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_PurpleBraids_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1968
+POINTS  flags=0x1  Hair_RainbowBeanie_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=855
+FAIL  flags=0x1  Hair_RockStar_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_RoseBraid_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1463
+FAIL  flags=0x1  Hair_SantaHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  Hair_ShaggyShort_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=937
+FAIL  flags=0x1  Hair_ShortBobRound_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_ShortBob_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_ShoulderLong_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_SideBraidLong_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=350
+POINTS  flags=0x1  Hair_SideBraid_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=430
+POINTS  flags=0x1  Hair_SnowmanHead_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=149
+POINTS  flags=0x1  Hair_SpiderBun_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2198
+FAIL  flags=0x1  Hair_Spider_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_SunlightSurfer_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_TightCurls_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_TopSharp_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_TravelerRed_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=475
+FAIL  flags=0x1  Hair_TravelerWhite_StripAnim_CompOcc_ZipPos_StripNorm: bad shared
+FAIL  flags=0x1  Hair_TreasureBandanaLong_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hair_TriumphSwept_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_WerewolfWitch_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=844
+FAIL  flags=0x1  Hair_WinterBeanie_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hair_WitchHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1392
+POINTS  flags=0x1  Hair_WoolHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2037
+FAIL  flags=0x1  Hair_YellowDuck_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  HandyAnim: ZipPos overrun
+FAIL  flags=0x1  HangingCloth_02Anim: ZipPos overrun
+FAIL  flags=0x1  Hat_AP07StrawHatNoCrab_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hat_AP07StrawHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hat_AP12DeluxeFeather_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=452
+FAIL  flags=0x1  Hat_AP12DoubleFeather_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hat_AP12Dove_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Hat_AP12SideFeather_Red_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Hat_AP12SideFeather_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hat_AP13AcornHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hat_AP15Butterfly_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hat_AP15DarkPlant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=243
+FAIL  flags=0x1  Hat_AP19Dew_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm_CopyFrameDelay: ZipPos overrun
+POINTS  flags=0x1  Hat_AP19TriangleHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=414
+FAIL  flags=0x1  Hat_AP19WesternHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hat_AP20MessageBoat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  Hat_AP20Ribbon_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=927
+FAIL  flags=0x1  Hat_AP21Crown_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hat_AP21Lotus_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hat_AP22Pencil_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=141
+FAIL  flags=0x1  Hat_AP24BellRibbon_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hat_AP24ClassicEars_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hat_AP24TriangleHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hat_AP24Wreath_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hat_AP25BlueRibbon_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=341
+FAIL  flags=0x1  Hat_AP26FeatherClip_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hat_AP26RedBow_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hat_AP27Constellation_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hat_AP27ManateeChibi_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=991
+POINTS  flags=0x1  Hat_AP27MemoryFlowers_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=736
+POINTS  flags=0x1  Hat_AP28HairBells_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1942
+POINTS  flags=0x1  Hat_AP29SunHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1412
+POINTS  flags=0x1  Hat_AP30Goggles_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=822
+FAIL  flags=0x1  Hat_AP30SmallHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hat_AP31BlueFur_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=703
+FAIL  flags=0x1  Hat_AP31FloppyHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hat_AP31Postman_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hat_AP32Pearl_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=909
+POINTS  flags=0x1  Hat_AP32ShipHatBroken_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1743
+POINTS  flags=0x1  Hat_AP32ShipHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1039
+POINTS  flags=0x1  Hat_AwardShowHat_07_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=773
+FAIL  flags=0x1  Hat_BalloonCrab_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Hat_BalloonCrown_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x1  Hat_BalloonJellyfish_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=1108
+FAIL  flags=0x1  Hat_BalloonKrill_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x1  Hat_BalloonManta_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=706
+POINTS  flags=0x1  Hat_BirthdayHat_01  v=595
+POINTS  flags=0x1  Hat_BirthdayHat_01_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=595
+POINTS  flags=0x1  Hat_BirthdayHat_02_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=705
+FAIL  flags=0x1  Hat_BirthdayHat_03_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Hat_BirthdayHat_04_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Hat_BirthdayHat_05_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Hat_BirthdayHat_06_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x1  Hat_BirthdayHat_07_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=778
+FAIL  flags=0x1  Hat_BlueBow_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x1  Hat_Bunny_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=358
+POINTS  flags=0x1  Hat_ColorBeret_StripAnim_CompOcc_ZipPos_StripNorm  v=649
+POINTS  flags=0x1  Hat_Coral_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=654
+FAIL  flags=0x1  Hat_CrystalHearts_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Hat_Fascinator_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hat_FeastFurHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=864
+POINTS  flags=0x1  Hat_FeastSnowman_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=447
+POINTS  flags=0x1  Hat_FlowerCrownPink_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=342
+POINTS  flags=0x1  Hat_FlowerPS_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=339
+POINTS  flags=0x1  Hat_FortuneFish_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=512
+POINTS  flags=0x1  Hat_FortuneOrange_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=229
+FAIL  flags=0x1  Hat_FriendshipBlackDuck_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hat_FriendshipMiniDuck_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hat_HeartBeret_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hat_KizunaAi_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=317
+FAIL  flags=0x1  Hat_Laurel_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: ZipPos overrun
+POINTS  flags=0x1  Hat_MischiefCatEars_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=654
+FAIL  flags=0x1  Hat_MischiefLeaf_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hat_MischiefMagicHat_StripAnim_CompOcc_ZipPos_StripNorm  v=794
+FAIL  flags=0x1  Hat_MoonlightFlower_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Hat_MoonlightHalo_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hat_MothAntenna_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=354
+FAIL  flags=0x1  Hat_MusicNoteBlue_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Hat_MusicNoteGold_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Hat_NatureWaterVeil_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hat_OreoHeadband_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x1  Hat_PastryEars_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm_CopyFrameDelay  v=314
+POINTS  flags=0x1  Hat_PastryMini_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=707
+POINTS  flags=0x1  Hat_PastryRoll_CompOcc  v=560
+FAIL  flags=0x1  Hat_PastryTea_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Hat_PersonalityJStraight_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hat_PersonalityNurseCap_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hat_PersonalityPCurve_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=174
+FAIL  flags=0x1  Hat_PersonalityPaintbrush_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hat_PersonalityPuppyEars_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=486
+POINTS  flags=0x1  Hat_Pinecone_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=867
+FAIL  flags=0x1  Hat_PixieCap_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hat_Pizzahut_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=564
+POINTS  flags=0x1  Hat_PoppyRainbowSmall_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=390
+FAIL  flags=0x1  Hat_PoppyRainbow_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Hat_PoppyRed_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Hat_PoppyWhite_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Hat_PumpkinCrab_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x1  Hat_PurpleCoral_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=654
+POINTS  flags=0x1  Hat_QixiComb_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1062
+POINTS  flags=0x1  Hat_Qixi_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=464
+FAIL  flags=0x1  Hat_Shell_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Hat_SnowflakeGold_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x1  Hat_Sprout_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=443
+FAIL  flags=0x1  Hat_StackedHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Hat_SummerHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hat_SunflowerHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=899
+FAIL  flags=0x1  Hat_SunflowerHeadband_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  Hat_SunlightJelly_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1272
+FAIL  flags=0x1  Hat_SunlightSunglasses_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Hat_TopHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=299
+POINTS  flags=0x1  Hat_TreasurePirate_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1000
+POINTS  flags=0x1  Hat_WitchHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=336
+FAIL  flags=0x1  Hat_YellowDuck_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Horn_AP04EarMuffs_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=364
+POINTS  flags=0x1  Horn_AP06Tassel_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=249
+POINTS  flags=0x1  Horn_AP09Yeti_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=91
+POINTS  flags=0x1  Horn_AP13Braids_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=463
+FAIL  flags=0x1  Horn_AP15Butterfly_Red_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Horn_AP16MoonStar_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Horn_AP18FabricStrip_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Horn_AP18Tusk_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Horn_AP21Deer_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Horn_AP25YellowPaint_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Horn_AP26EarMuff_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2513
+FAIL  flags=0x1  Horn_AP27KrillHorns_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Horn_AP27ManateeFins_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Horn_AP28ButterflyAntennae_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=704
+POINTS  flags=0x1  Horn_AP29OrbEarring_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=144
+FAIL  flags=0x1  Horn_AP31Bandage_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  Horn_AP31StarryEarringStrokes_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=408
+FAIL  flags=0x1  Horn_AP31StarryEarring_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Horn_AP32Seastar_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Horn_BloomSunflowerEarring_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=361
+FAIL  flags=0x1  Horn_BoatRaceZongzi_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Horn_CursorHairpin_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=212
+FAIL  flags=0x1  Horn_DarkRainbowEarring_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Horn_Design01Brush_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x1  Horn_DragonEarring_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=644
+POINTS  flags=0x1  Horn_Elk_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=962
+FAIL  flags=0x1  Horn_FireworkEarring_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Horn_FortuneGlasses_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=770
+FAIL  flags=0x1  Horn_MCGoldenApple_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Horn_MoonEarring_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=660
+POINTS  flags=0x1  Horn_MoonlightEarlobes_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=224
+POINTS  flags=0x1  Horn_NatureFins_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1648
+FAIL  flags=0x1  Horn_RainbowEarring_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Horn_RainbowHeadphones_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Horn_RainbowTassel_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=240
+FAIL  flags=0x1  Horn_SunnyEarring_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Horn_TuneBandMic_Bronze_CompOcc: bad shared
+FAIL  flags=0x1  Horn_TuneBandMic_Gold_CompOcc: bad shared
+FAIL  flags=0x1  Horn_TuneBandMic_Silver_CompOcc: bad shared
+FAIL  flags=0x1  Horn_TuneBandMic_White_CompOcc: bad shared
+POINTS  flags=0x1  Horn_TuneBand_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2460
+POINTS  flags=0x1  Horn_WerewolveFlag_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=53
+POINTS  flags=0x1  Horn_Withered_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=526
+POINTS  flags=0x1  IvorySwingSeatAnimL  v=1233
+FAIL  flags=0x1  IvorySwingSeatAnimR: bad shared
+POINTS  flags=0x1  JarBAnim  v=233
+FAIL  flags=0x1  KizunaAi: bad shared
+FAIL  flags=0x1  Lurker_GrasperReversed_CompOcc: bad shared
+FAIL  flags=0x1  Lurker_Grasper_CompOcc: bad shared
+POINTS  flags=0x1  MainStreetPropShopFlags_01  v=93
+FAIL  flags=0x1  Mask_AP02Bird_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Mask_AP02Bull_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Mask_AP02Crab_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=764
+POINTS  flags=0x1  Mask_AP02Deer_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=979
+POINTS  flags=0x1  Mask_AP02Fox_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=538
+FAIL  flags=0x1  Mask_AP02Weasel_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Mask_AP03MaskA_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=327
+FAIL  flags=0x1  Mask_AP03MaskB_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Mask_AP03MaskC_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Mask_AP03MaskD_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=339
+FAIL  flags=0x1  Mask_AP03MaskE_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Mask_AP03MaskF_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=292
+POINTS  flags=0x1  Mask_AP03MaskG_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=462
+POINTS  flags=0x1  Mask_AP04Adult_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=501
+POINTS  flags=0x1  Mask_AP04Beard_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=682
+POINTS  flags=0x1  Mask_AP04Child_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=407
+FAIL  flags=0x1  Mask_AP04Mustache_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Mask_AP05Actor_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Mask_AP05Default_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Mask_AP05Director_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Mask_AP05Merchant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Mask_AP05Musician_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=575
+FAIL  flags=0x1  Mask_AP06Scarf_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Mask_AP06VeilGold_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Mask_AP06VeilPurple_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=805
+FAIL  flags=0x1  Mask_AP06WizardBeard_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Mask_AP07ThickBrows_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=415
+POINTS  flags=0x1  Mask_AP08Bat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2433
+FAIL  flags=0x1  Mask_AP08Lion_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Mask_AP08Spider_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2531
+POINTS  flags=0x1  Mask_AP08Turtle_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1136
+POINTS  flags=0x1  Mask_AP08Wolf_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1266
+FAIL  flags=0x1  Mask_AP09Phoenix_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Mask_AP09Pigeon_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=780
+FAIL  flags=0x1  Mask_AP09Quail_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Mask_AP09Rabbit_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Mask_AP10Eyepatch_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=640
+POINTS  flags=0x1  Mask_AP10MaskA_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=371
+POINTS  flags=0x1  Mask_AP10MaskB_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=361
+POINTS  flags=0x1  Mask_AP10MaskC_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=358
+POINTS  flags=0x1  Mask_AP10MaskD_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=378
+POINTS  flags=0x1  Mask_AP10QuestGiver_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=472
+FAIL  flags=0x1  Mask_AP10Sticks_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Mask_AP11Frog_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1302
+FAIL  flags=0x1  Mask_AP13BraidedBeard_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Mask_AP13Cracked_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Mask_AP13FullBeard_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Mask_AP13Scar_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Mask_AP13SnorkelLite_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Mask_AP13Snorkel_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=883
+FAIL  flags=0x1  Mask_AP14Determined_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Mask_AP14Focused_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Mask_AP14Happy_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=309
+POINTS  flags=0x1  Mask_AP14LongTufts_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=869
+FAIL  flags=0x1  Mask_AP14Sad_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Mask_AP14Surprised_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  Mask_AP15DarkPlant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=856
+FAIL  flags=0x1  Mask_AP16CureForMe_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Mask_AP16Earth_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Mask_AP16Fire_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Mask_AP16Water_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Mask_AP16Wind_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Mask_AP17Injured_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=444
+FAIL  flags=0x1  Mask_AP17PuffyBeard_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Mask_AP18Bear_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1866
+POINTS  flags=0x1  Mask_AP18Boar_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=918
+POINTS  flags=0x1  Mask_AP18Monkey_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=567
+POINTS  flags=0x1  Mask_AP18Raccoon_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=701
+FAIL  flags=0x1  Mask_AP18Serow_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Mask_AP19Blindfold_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=557
+POINTS  flags=0x1  Mask_AP19Scruffy_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1
+FAIL  flags=0x1  Mask_AP21Crescent_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Mask_AP21Deer_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Mask_AP21Eyebrows_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Mask_AP21PaintMakeup_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Mask_AP23Seahorse_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Mask_AP25Gazelle_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1337
+POINTS  flags=0x1  Mask_AP26Peacock_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1085
+POINTS  flags=0x1  Mask_AP27FluffyBeard_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1029
+FAIL  flags=0x1  Mask_AP27ManateeMask_StripAnim_CompOcc_ZipPos_StripNorm: ZipPos overrun
+POINTS  flags=0x1  Mask_AP27NightElder_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=462
+FAIL  flags=0x1  Mask_AP27RulerMask_StripAnim_CompOcc_ZipPos_StripNorm: bad shared
+POINTS  flags=0x1  Mask_AP29RepairedA_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=739
+POINTS  flags=0x1  Mask_AP29RepairedB_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=495
+POINTS  flags=0x1  Mask_AP29RepairedC_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=678
+POINTS  flags=0x1  Mask_AP29RepairedD_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=460
+POINTS  flags=0x1  Mask_AP29RepairedE_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=459
+POINTS  flags=0x1  Mask_AP30Dodo02_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=945
+POINTS  flags=0x1  Mask_AP30Dodo_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=929
+POINTS  flags=0x1  Mask_AP30Puffin_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=826
+POINTS  flags=0x1  Mask_AP31StarryStrokes_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=396
+POINTS  flags=0x1  Mask_AP31Starry_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=391
+POINTS  flags=0x1  Mask_AP32BeardLion_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1504
+POINTS  flags=0x1  Mask_AP32CoralEyelash_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=527
+POINTS  flags=0x1  Mask_AP32Freckle_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=241
+POINTS  flags=0x1  Mask_AP32WaveScar_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=679
+POINTS  flags=0x1  Mask_Bandana_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=597
+POINTS  flags=0x1  Mask_BasicA_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=373
+FAIL  flags=0x1  Mask_BasicQ_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Mask_BasicSleepy_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=500
+POINTS  flags=0x1  Mask_BoatRaceHeadBand_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1188
+FAIL  flags=0x1  Mask_ChildrenWhiteEyelash_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Mask_ColorFacepaint_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Mask_ColorSleek_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=678
+FAIL  flags=0x1  Mask_Crabula_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  Mask_FortuneDragon_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1233
+POINTS  flags=0x1  Mask_FortuneHorse_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1521
+FAIL  flags=0x1  Mask_FortuneOx_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Mask_FortuneRabbit_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=859
+FAIL  flags=0x1  Mask_FortuneSnake_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Mask_FortuneTiger_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1679
+FAIL  flags=0x1  Mask_MCVillager_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Mask_MischiefBeak_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=941
+POINTS  flags=0x1  Mask_MischiefCat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=550
+FAIL  flags=0x1  Mask_MoonlightVeil_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Mask_OceanWaves_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=499
+FAIL  flags=0x1  Mask_Ocean_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Mask_RainbowDark_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Mask_RedCheeks_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Mask_RibbonMask_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=554
+POINTS  flags=0x1  Mask_RosePetals_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=612
+FAIL  flags=0x1  Mask_Rose_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Mask_RunwayMakeup_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=563
+POINTS  flags=0x1  Mask_Smoke_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1738
+FAIL  flags=0x1  Mask_SparrowCheeks_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Mask_SunlightSnorkel_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Mask_TravelerRed_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Mask_TravelerWhite_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Mask_TreasureEyePatch_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1030
+FAIL  flags=0x1  Mask_Werewolf_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Maypole_Wind: bad shared
+FAIL  flags=0x1  Mc_Axolotl_CompOcc: ZipPos overrun
+FAIL  flags=0x1  MoonlightLantern: bad shared
+POINTS  flags=0x1  MoonlightRabbit_CompOcc  v=358
+FAIL  flags=0x1  NPC_AP21Coat_StripAnim_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  NPC_AP21KingCloak_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1587
+FAIL  flags=0x1  NPC_AP21LinenPants_StripAnim_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  NPC_AP21RoyalDress_StripAnim_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  NPC_AP21SilkRaiment_StripAnim_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  NPC_AP22Designer_StripAnim_ZipPos_ZipUvs_StripNorm  v=3228
+POINTS  flags=0x1  NPC_AP23CellistBasic_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=3103
+FAIL  flags=0x1  NPC_AP23CellistDress_StripAnim_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP23PianistBasic_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP23PianistSuit_StripAnim_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP24Apron_StripAnim_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP24BellDress_StripAnim_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP24BellFull_StripAnim_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP24BellOnly_StripAnim_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP24BellShoesCham_StripAnim_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP24BellShoes_StripAnim_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP24Classic_StripAnim_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP24Ears_StripAnim_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP24Onion_StripAnim_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP24Stripes_StripAnim_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP24TopHat_StripAnim_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  NPC_AP24Triangle_StripAnim_ZipPos_ZipUvs_StripNorm  v=14004
+POINTS  flags=0x1  NPC_AP25BigPants_StripAnim_ZipPos_ZipUvs_StripNorm  v=3402
+FAIL  flags=0x1  NPC_AP25DyeCloth_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  NPC_AP25Tunic_StripAnim_ZipPos_ZipUvs_StripNorm  v=3622
+POINTS  flags=0x1  NPC_AP25Wrap_StripAnim_ZipPos_ZipUvs_StripNorm  v=3280
+FAIL  flags=0x1  NPC_AP26Gown_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP26Lumberjack_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  NPC_AP26Royal_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=970
+POINTS  flags=0x1  NPC_AP27Caretaker_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=4435
+POINTS  flags=0x1  NPC_AP27GuardMask_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=335
+FAIL  flags=0x1  NPC_AP27GuardNoSword_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  NPC_AP27Guard_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  NPC_AP27Herder_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP27NightElder_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  NPC_AP27OldMan_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=3192
+FAIL  flags=0x1  NPC_AP28BirdTunic_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP28JellyShorts_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP28MantaWhisperer_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP29HighlightsHair_StripAnim_CompOcc_ZipPos_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP29Layered_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP29LightStrandsWing_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP29PleatedCivilian_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  NPC_AP29PleatedLaborer_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP29ShortJacket_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP30PuffyDress_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP30Romper_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP30RuffledShirt_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  NPC_AP30WaistCoat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP31ArtistBlue_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP31ArtistInjured_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  NPC_AP31Artist_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=4356
+FAIL  flags=0x1  NPC_AP31BlueGeneric_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_AP31Brother_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  NPC_AP31Priest_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=3802
+FAIL  flags=0x1  NPC_AP31Sister_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  NPC_AP31Suit_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=3104
+POINTS  flags=0x1  NPC_AP31VictorianDress_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2588
+POINTS  flags=0x1  NPC_AP31WorkerDress_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=3335
+FAIL  flags=0x1  NPC_Body_AP32CargoBroken_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_Body_AP32Gown_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  NPC_Body_AP32Sailor_StripAnim_CompOcc_ZipUvs_StripNorm  v=2925
+FAIL  flags=0x1  NPC_CivilianFemaleBody_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  NPC_CivilianFemaleShoulder_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  NPC_CivilianMaleBody_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x1  NPC_CivilianMaleShoulder_StripAnim_ZipPos_ZipUvs_StripUv13_StripNorm  v=292
+FAIL  flags=0x1  NPC_CivilianShoes_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x1  NPC_Hat_AP32ShipHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=884
+FAIL  flags=0x1  NPC_Horn_AP32Seastar_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_KidLongPantsBody_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  NPC_LaborerMaleBody_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  NPC_LaborerMaleHeadwrap_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x1  NPC_LaborerMaleShoulder_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=292
+FAIL  flags=0x1  NPC_LaborerShoes_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: ZipPos overrun
+FAIL  flags=0x1  NPC_MerchantBody_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NPC_MusicianBody_StripAnim_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  NPC_SkinnyIntellectualBody_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2590
+POINTS  flags=0x1  NPC_SkinnyIntellectualShawlDn_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2516
+POINTS  flags=0x1  NPC_YoungFemaleBody_StripAnim_ZipPos_ZipUvs_StripUv13_StripNorm  v=2016
+FAIL  flags=0x1  Neck_AP02Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_AP03Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_AP04Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_AP05Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_AP06Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_AP07BowTie_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Neck_AP07Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=406
+FAIL  flags=0x1  Neck_AP08Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_AP09Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_AP10Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  Neck_AP11Ascot_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=664
+POINTS  flags=0x1  Neck_AP11Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=494
+POINTS  flags=0x1  Neck_AP12Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=534
+FAIL  flags=0x1  Neck_AP12Scales_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Neck_AP13Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=440
+FAIL  flags=0x1  Neck_AP14Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_AP15Crab_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Neck_AP15Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_AP16Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_AP17Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_AP17Sash_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_AP17Scarf_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_AP18FluffyRuff_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_AP18Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_AP19Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Neck_AP20MaypoleScarf_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=536
+FAIL  flags=0x1  Neck_AP20Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_AP21Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_AP22Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Neck_AP23Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_AP24Arms_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_AP24Bell_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_AP24OnionRibbon_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Neck_AP24Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=449
+POINTS  flags=0x1  Neck_AP24StripesScarf_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=903
+FAIL  flags=0x1  Neck_AP24TriangleScarf_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_AP25Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_AP26Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_AP27Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Neck_AP28Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x1  Neck_AP29Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=404
+POINTS  flags=0x1  Neck_AP30Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1011
+POINTS  flags=0x1  Neck_AP30RuffledCollar_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=957
+FAIL  flags=0x1  Neck_AP31Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Neck_AP31StarryStrokes_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1098
+FAIL  flags=0x1  Neck_AP31Starry_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_AP32Pendant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_AP32SeaArmour_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Neck_BlueConch_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=486
+FAIL  flags=0x1  Neck_Bow_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_CrabBandana_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Neck_CrabBow_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Neck_Crab_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x1  Neck_DragonBodyBlack_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=356
+FAIL  flags=0x1  Neck_DragonBodyWhite_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x1  Neck_DragonHeadBlack_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=999
+FAIL  flags=0x1  Neck_DragonHeadWhite_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x1  Neck_DragonTailBlack_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=400
+FAIL  flags=0x1  Neck_DragonTailWhite_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Neck_FriendshipDuckCar01_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Neck_FriendshipDuckCar02_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Neck_Holly_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Neck_Jellyfish_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x1  Neck_KrillTie_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=540
+FAIL  flags=0x1  Neck_MedalBronze_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Neck_MedalGold_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Neck_MedalSilver_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Neck_MischiefCat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Neck_OceanScarf_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=551
+FAIL  flags=0x1  Neck_PastryBow_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Neck_Personality_YellowJokerNeck_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Neck_Pizzahut_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=483
+FAIL  flags=0x1  Neck_Qixi_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_RibbonBib_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+FAIL  flags=0x1  Neck_SeaTurtle_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: ZipPos overrun
+POINTS  flags=0x1  Neck_ShiguangScarf_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=621
+FAIL  flags=0x1  Neck_ShoulderButterfly_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x1  Neck_SunflowerTie_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=562
+FAIL  flags=0x1  Neck_WinterScarfBlue_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Neck_WinterScarf_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  NeteaseMessageTurtle: bad shared
+FAIL  flags=0x1  OrbitEndFlyingVKIdsCards_01: bad shared
+FAIL  flags=0x1  Outfit_None_StripAnim_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: ZipPos overrun
+FAIL  flags=0x1  P_AP28MigrationBell_CompOcc: ZipPos overrun
+FAIL  flags=0x1  P_AP30BirdPlushBig_CompOcc: bad shared
+FAIL  flags=0x1  PearlShell_Big: bad shared
+FAIL  flags=0x1  Personality_PurpleGlasses: bad shared
+FAIL  flags=0x1  Pizzahut_Abundleofballoons: bad shared
+FAIL  flags=0x1  Pizzahut_brushedpizza: bad shared
+FAIL  flags=0x1  Placeable_MoonlightLantern: bad shared
+FAIL  flags=0x1  PropAP10HangingLanternAnim_01: bad shared
+FAIL  flags=0x1  PropCanopy: bad shared
+FAIL  flags=0x1  PropChestAnim: bad shared
+FAIL  flags=0x1  PropOrbitDesctructibleRock: bad shared
+FAIL  flags=0x1  PropOrbitDestructibleBuilding_02: ZipPos overrun
+FAIL  flags=0x1  PropShopPartyBalloons_01: ZipPos overrun
+FAIL  flags=0x1  PropSpiritDuskCoverPillarAnim: bad shared
+FAIL  flags=0x1  PropTheaterCurtainAnim: ZipPos overrun
+FAIL  flags=0x1  PropTheaterCurtainAnim2: bad shared
+FAIL  flags=0x1  PropTheaterSwitch_01: bad shared
+FAIL  flags=0x1  Prop_AP03UmbrellaPurple_CompOcc_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Prop_AP03UmbrellaTeal_CompOcc_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x0  Prop_AP04BonfireBack_CompOcc_ZipPos_ZipUvs_StripNorm  v=759
+POINTS  flags=0x0  Prop_AP11FoxBack_CompOcc_ZipPos_ZipUvs_StripNorm_CopyFrameDelay  v=1049
+POINTS  flags=0x0  Prop_AP15DarkHorn_CompOcc_ZipPos_ZipUvs_StripNorm  v=481
+POINTS  flags=0x0  Prop_AP22FigurineBack_CompOcc_ZipPos_ZipUvs_StripNorm  v=643
+POINTS  flags=0x0  Prop_AP22HangingLightBack_CompOcc_ZipPos_ZipUvs_StripNorm  v=935
+POINTS  flags=0x0  Prop_AP23PianoBasicBack_CompOcc_ZipPos_ZipUvs_StripNorm  v=780
+POINTS  flags=0x0  Prop_AP23PianoFancyBack_CompOcc_ZipPos_ZipUvs_StripNorm  v=1802
+POINTS  flags=0x0  Prop_AP23PianoUprightBack_CompOcc_ZipPos_ZipUvs_StripNorm  v=1428
+POINTS  flags=0x0  Prop_AP24ClassicPlushBack_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=1598
+POINTS  flags=0x1  Prop_AP24EmoteBook_CompOcc  v=845
+POINTS  flags=0x0  Prop_AP24OilLampBack_CompOcc_ZipPos_ZipUvs  v=758
+FAIL  flags=0x1  Prop_AP24QuestBook: bad shared
+POINTS  flags=0x0  Prop_AP24TentBack_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=1023
+FAIL  flags=0x1  Prop_AP24Umbrella_CompOcc_ZipUvs_StripUv13_StripNorm: bad shared
+POINTS  flags=0x0  Prop_AP25ClothDivider_CompOcc_ZipPos_ZipUvs_StripNorm_CopyFrameDelay  v=788
+POINTS  flags=0x0  Prop_AP26TreePerch_CompOcc_ZipPos_ZipUvs_StripNorm_CopyFrameDelay  v=317
+POINTS  flags=0x1  Prop_AP27LightMotesDown_CompOcc  v=758
+FAIL  flags=0x1  Prop_AP27LightMotes_CompOcc: bad shared
+FAIL  flags=0x1  Prop_AP27ManateeFigurine_CompOcc_CopyFrameDelay: bad shared
+POINTS  flags=0x0  Prop_AP27ShepherdStaff_CompOcc_ZipPos_ZipUvs_StripNorm  v=2064
+POINTS  flags=0x0  Prop_AP27TeaStall_Backpack_CompOcc_ZipPos_ZipUvs  v=299
+POINTS  flags=0x0  Prop_AP31BlossomTea_Backpack_CompOcc_ZipPos_ZipUvs  v=301
+POINTS  flags=0x0  Prop_AP31PaintingBedroomBack_CompOcc_ZipPos_ZipUvs  v=1519
+POINTS  flags=0x0  Prop_AP31PaintingFarmBack_CompOcc_ZipPos_ZipUvs  v=901
+POINTS  flags=0x0  Prop_AP31PaintingFieldBack_CompOcc_ZipPos_ZipUvs  v=1285
+POINTS  flags=0x0  Prop_AP31PaintingHouseBack_CompOcc_ZipPos_ZipUvs  v=845
+POINTS  flags=0x0  Prop_AP31PaintingPortraitBack_CompOcc_ZipPos_ZipUvs  v=1910
+POINTS  flags=0x0  Prop_AP31PaintingStarryBack_CompOcc_ZipPos_ZipUvs  v=1444
+POINTS  flags=0x0  Prop_AP31PaintingSunflowerBack_CompOcc_ZipPos_ZipUvs  v=1787
+POINTS  flags=0x0  Prop_AP31PaintingTreeBack_CompOcc_ZipPos_ZipUvs  v=1855
+POINTS  flags=0x0  Prop_AP31PaintingWindmillBack_CompOcc_ZipPos_ZipUvs  v=1764
+POINTS  flags=0x1  Prop_AP31StarryUmbrella_CompOcc_ZipUvs_StripNorm  v=2035
+POINTS  flags=0x1  Prop_AP32MessageInABottle_01_CompOcc  v=482
+POINTS  flags=0x1  Prop_AP32MessageInABottle_05_CompOcc  v=1579
+FAIL  flags=0x1  Prop_AP32PearlBoat01_CompOcc: bad shared
+POINTS  flags=0x0  Prop_AP32PearlBoat_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=7902
+FAIL  flags=0x1  Prop_APFlagAnim_Persistent_CompOcc: bad shared
+FAIL  flags=0x1  Prop_AnnivLaptopRigged_CompOcc: bad shared
+FAIL  flags=0x1  Prop_AnniversaryClapboard_CompOcc_ZipPos_ZipUvs_StripNorm: ZipPos overrun
+POINTS  flags=0x0  Prop_BackpackDefault_CompOcc_ZipPos_ZipUvs_StripNorm_CopyFrameDelay  v=805
+POINTS  flags=0x0  Prop_BackpackFabric_CompOcc_ZipPos_ZipUvs_StripNorm_CopyFrameDelay  v=957
+POINTS  flags=0x0  Prop_Backpack_CompOcc_ZipPos_ZipUvs_StripNorm_CopyFrameDelay  v=493
+FAIL  flags=0x1  Prop_BalloonRed_CompOcc: bad shared
+FAIL  flags=0x1  Prop_Balloon_01_Persistent_CompOcc: bad shared
+FAIL  flags=0x1  Prop_BloomSunflowerUmbrella_CompOcc_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Prop_BoatRaceHammock_CompOcc  v=2454
+POINTS  flags=0x0  Prop_Broom_CompOcc_ZipPos_ZipUvs_StripNorm  v=522
+FAIL  flags=0x1  Prop_Cannon_01_Persistent: ZipPos overrun
+POINTS  flags=0x1  Prop_CloudMusicjukebox_CompOcc  v=464
+POINTS  flags=0x0  Prop_ColorKiteBirdBack_CompOcc_ZipPos_ZipUvs_StripNorm_CopyFrameDelay  v=898
+POINTS  flags=0x0  Prop_ColorKiteButterflyBack_CompOcc_ZipPos_ZipUvs_StripNorm_CopyFrameDelay  v=606
+POINTS  flags=0x0  Prop_ColorKiteCrabBack_CompOcc_ZipPos_ZipUvs_StripNorm_CopyFrameDelay  v=904
+POINTS  flags=0x0  Prop_ColorKiteJellyBack_CompOcc_ZipPos_ZipUvs_StripNorm_CopyFrameDelay  v=1640
+POINTS  flags=0x0  Prop_ColorKiteLighthornBack_CompOcc_ZipPos_ZipUvs_StripNorm_CopyFrameDelay  v=1732
+POINTS  flags=0x0  Prop_ColorKiteManateeBack_CompOcc_ZipPos_ZipUvs_StripNorm_CopyFrameDelay  v=1585
+POINTS  flags=0x0  Prop_ColorKiteMantaBack_CompOcc_ZipPos_ZipUvs_StripNorm_CopyFrameDelay  v=675
+POINTS  flags=0x0  Prop_ColorKiteTunaKingBack_CompOcc_ZipPos_ZipUvs_StripNorm_CopyFrameDelay  v=2633
+POINTS  flags=0x0  Prop_ColorKiteTurtleBack_CompOcc_ZipPos_ZipUvs_StripNorm_CopyFrameDelay  v=1506
+FAIL  flags=0x1  Prop_DiscoLight_CompOcc: bad shared
+FAIL  flags=0x1  Prop_FeastGloves_CompOcc: ZipPos overrun
+POINTS  flags=0x0  Prop_FireworkStaff_CompOcc_ZipPos_ZipUvs_StripNorm  v=960
+POINTS  flags=0x1  Prop_FortuneCarousel02_CompOcc  v=762
+POINTS  flags=0x1  Prop_FortuneCarousel_CompOcc_CopyFrameDelay  v=1410
+POINTS  flags=0x1  Prop_FortuneFan_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=762
+POINTS  flags=0x1  Prop_FortunePony01_CompOcc  v=1129
+FAIL  flags=0x1  Prop_FortunePony_CompOcc: bad shared
+FAIL  flags=0x1  Prop_FortuneUmbrella_CompOcc_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x0  Prop_HeartStaff_CompOcc_ZipPos_ZipUvs_StripNorm  v=637
+POINTS  flags=0x0  Prop_IvorySwing_Backpack_CompOcc_ZipPos_ZipUvs  v=1547
+POINTS  flags=0x0  Prop_JenovaFan_CompOcc_ZipPos_ZipUvs_StripNorm  v=604
+FAIL  flags=0x1  Prop_KizunaAiTVBorder_CompOcc: bad shared
+POINTS  flags=0x0  Prop_Lantern_CompOcc_ZipPos_ZipUvs_StripNorm  v=1118
+FAIL  flags=0x1  Prop_LilyUmbrella_CompOcc_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x0  Prop_MigrationBellBackpack_CompOcc_ZipPos_ZipUvs_StripNorm_CopyFrameDelay  v=1278
+FAIL  flags=0x1  Prop_MischiefCat_CompOcc: bad shared
+POINTS  flags=0x0  Prop_MischiefWand_CompOcc_ZipPos_ZipUvs_StripNorm  v=328
+FAIL  flags=0x1  Prop_MoonlightLantern_CompOcc: bad shared
+POINTS  flags=0x0  Prop_PianoUprightBack_CompOcc_ZipPos_ZipUvs_StripNorm  v=1340
+FAIL  flags=0x1  Prop_QixiBird_CompOcc: bad shared
+POINTS  flags=0x0  Prop_ScepterWand_CompOcc_ZipPos_ZipUvs_StripNorm  v=351
+POINTS  flags=0x0  Prop_SequencerBack_CompOcc_ZipPos_ZipUvs_StripNorm  v=608
+FAIL  flags=0x1  Prop_SkyBalloon_CompOcc: bad shared
+FAIL  flags=0x1  Prop_SnakeGameHead_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm: ZipPos overrun
+FAIL  flags=0x1  Prop_StupaBell_CompOcc: bad shared
+POINTS  flags=0x1  Prop_Sunflower_CompOcc  v=1383
+POINTS  flags=0x0  Prop_TableBronzeBackpack_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=509
+POINTS  flags=0x0  Prop_TableGoldBackpack_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=413
+POINTS  flags=0x0  Prop_TableSilverBackpack_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=509
+POINTS  flags=0x0  Prop_TreasureShovel_CompOcc_ZipPos_ZipUvs_StripNorm  v=536
+FAIL  flags=0x1  Prop_Umbrella_CompOcc_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x0  Prop_WaterBucket_CompOcc_ZipPos_ZipUvs_StripNorm  v=801
+POINTS  flags=0x0  Prop_Wrench_CompOcc_ZipPos_ZipUvs_StripNorm  v=746
+POINTS  flags=0x1  Prop_paddle_RIG_CompOcc_ZipPos_ZipUvs_StripUv13_StripNorm  v=648
+FAIL  flags=0x1  RockDebrisSpinAnim: ZipPos overrun
+FAIL  flags=0x1  S26_FeatherAnim: bad shared
+FAIL  flags=0x1  S27_Plant_01: bad shared
+POINTS  flags=0x1  S27_WoodenHatch  v=1445
+FAIL  flags=0x1  S28_MigrationBell_Vane: bad shared
+POINTS  flags=0x1  S28_MigrationBoat  v=2693
+FAIL  flags=0x1  S30_ShipWheel_01: bad shared
+POINTS  flags=0x1  S31_AlmondBlossom  v=914
+FAIL  flags=0x1  SeesawAnim: bad shared
+FAIL  flags=0x1  SkyFestMaypole: bad shared
+FAIL  flags=0x1  SkywayChimeAnim_01: ZipPos overrun
+FAIL  flags=0x1  SkywayGateChimeAnim: bad shared
+FAIL  flags=0x1  SkywayGateChimeRopeAnim: ZipPos overrun
+FAIL  flags=0x1  SnakeGameHead: bad shared
+FAIL  flags=0x1  SnakeSkeleton2_CompOcc: bad shared
+FAIL  flags=0x1  SpBoatAAnim: bad shared
+FAIL  flags=0x1  SpSwingSetSeatAnim: bad shared
+FAIL  flags=0x1  StoneBoat_04_Anim: ZipPos overrun
+FAIL  flags=0x1  StormEndShieldBrokenAnim_01: bad shared
+POINTS  flags=0x1  StormEndStarBroken_02Anim_CompOcc  v=1352
+FAIL  flags=0x1  StormEndStatueBrokenAnim_01: bad shared
+FAIL  flags=0x1  SummerBlanketsHanger: bad shared
+FAIL  flags=0x1  SummerLemonadeGlass: ZipPos overrun
+FAIL  flags=0x1  SummerLemonadeGlass02: ZipPos overrun
+FAIL  flags=0x1  SummerLemonadeStand: bad shared
+FAIL  flags=0x1  SummerLemonadeStand02: bad shared
+FAIL  flags=0x1  SunsetFlagTriangle_03: bad shared
+FAIL  flags=0x1  SunsetFlag_03Anim: bad shared
+FAIL  flags=0x1  SunsetFlag_04Anim: bad shared
+FAIL  flags=0x1  SunsetFlag_05Anim: bad shared
+FAIL  flags=0x1  SunsetYetiHouseLoinCloth_01Anim: bad shared
+POINTS  flags=0x1  SunsetYetiParkHouseClothAnim_01  v=8
+FAIL  flags=0x1  TGCOffice_Balloon: bad shared
+FAIL  flags=0x1  TGCOffice_Balloon2: ZipPos overrun
+FAIL  flags=0x1  TGCOffice_Cannon: ZipPos overrun
+FAIL  flags=0x1  Tail_AP24Classic_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Tail_AP27KrillTail_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1027
+FAIL  flags=0x1  Tail_AP27ManateeTail_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Tail_MischiefCat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=321
+FAIL  flags=0x1  Tail_MoonlightRabbit_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  TopHat  v=299
+FAIL  flags=0x1  Turtle_DoN_01: ZipPos overrun
+POINTS  flags=0x1  TwinRibbonOrnament_CompOcc  v=344
+FAIL  flags=0x1  Werewolf_CompOcc: ZipPos overrun
+FAIL  flags=0x1  WindCompassFish_01Anim: ZipPos overrun
+FAIL  flags=0x1  WingBuffChildHuskBreakAnim_01: bad shared
+FAIL  flags=0x1  Wing_AP02Fur_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Wing_AP02Tail_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1604
+FAIL  flags=0x1  Wing_AP03BiolumBlue_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Wing_AP03BiolumGlow_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1357
+POINTS  flags=0x1  Wing_AP03Petal_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1446
+POINTS  flags=0x1  Wing_AP04Adult_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1275
+POINTS  flags=0x1  Wing_AP04Child_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1019
+POINTS  flags=0x1  Wing_AP04Elder_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2229
+POINTS  flags=0x1  Wing_AP05Director_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1420
+POINTS  flags=0x1  Wing_AP05Juggler_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1203
+POINTS  flags=0x1  Wing_AP06LayeredPurple_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2086
+POINTS  flags=0x1  Wing_AP06LayeredYellow_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2086
+POINTS  flags=0x1  Wing_AP06Tassel_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2054
+POINTS  flags=0x1  Wing_AP06Trim_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1102
+FAIL  flags=0x1  Wing_AP07Aloha_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Wing_AP07Butterfly_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Wing_AP07Manta_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1014
+POINTS  flags=0x1  Wing_AP07Shell_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1011
+POINTS  flags=0x1  Wing_AP08Bat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1405
+POINTS  flags=0x1  Wing_AP08Spider_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2044
+SKIP  flags=0x50001  Wing_AP08Turtle_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm
+FAIL  flags=0x1  Wing_AP09Fur_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Wing_AP09Phoenix_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1814
+POINTS  flags=0x1  Wing_AP09Robe_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1211
+FAIL  flags=0x1  Wing_AP09Waves_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Wing_AP10GreenCape_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1576
+POINTS  flags=0x1  Wing_AP10YellowCape_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1409
+POINTS  flags=0x1  Wing_AP11GreenCoat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1436
+POINTS  flags=0x1  Wing_AP11HeavyFur_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2055
+POINTS  flags=0x1  Wing_AP11Scarf_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=339
+POINTS  flags=0x1  Wing_AP11Tattered_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1412
+POINTS  flags=0x1  Wing_AP11Uniform_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1048
+POINTS  flags=0x1  Wing_AP11Wrinkled_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1331
+POINTS  flags=0x1  Wing_AP12BlueWing_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=930
+POINTS  flags=0x1  Wing_AP12TwoTone_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1850
+POINTS  flags=0x1  Wing_AP13Coat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1589
+POINTS  flags=0x1  Wing_AP13LeatherScales_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1312
+POINTS  flags=0x1  Wing_AP13NobleCloak_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1795
+POINTS  flags=0x1  Wing_AP13Shawl_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=757
+POINTS  flags=0x1  Wing_AP13Shoulder_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1352
+POINTS  flags=0x1  Wing_AP14Jester_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1133
+POINTS  flags=0x1  Wing_AP14TatteredScarf_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=569
+FAIL  flags=0x1  Wing_AP14Tuxedo_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Wing_AP15BabyManta_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=914
+POINTS  flags=0x1  Wing_AP15BigManta_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1490
+FAIL  flags=0x1  Wing_AP15DarkPlant_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Wing_AP15Jellyfish_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1478
+POINTS  flags=0x1  Wing_AP15Krill_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1625
+POINTS  flags=0x1  Wing_AP16ButterflyBlue_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=478
+POINTS  flags=0x1  Wing_AP16ButterflyYellow_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=574
+POINTS  flags=0x1  Wing_AP16Earth_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1726
+POINTS  flags=0x1  Wing_AP16Fire_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1694
+POINTS  flags=0x1  Wing_AP16OrangeLove_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2069
+POINTS  flags=0x1  Wing_AP16Water_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1271
+POINTS  flags=0x1  Wing_AP16Wind_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1604
+POINTS  flags=0x1  Wing_AP17InjuredSoldier_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1213
+POINTS  flags=0x1  Wing_AP17TiedShawl_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=729
+POINTS  flags=0x1  Wing_AP17UniformCloak_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1472
+POINTS  flags=0x1  Wing_AP18FauxPelt_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2233
+POINTS  flags=0x1  Wing_AP18FurryGuard_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=876
+POINTS  flags=0x1  Wing_AP18RaccoonTail_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1294
+POINTS  flags=0x1  Wing_AP19Poncho_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=794
+POINTS  flags=0x1  Wing_AP20Abyss_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1292
+POINTS  flags=0x1  Wing_AP20Enchantment_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1551
+POINTS  flags=0x1  Wing_AP20Gratitude_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1578
+POINTS  flags=0x1  Wing_AP20MaypoleScarf_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=951
+POINTS  flags=0x1  Wing_AP20Rhythm_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1044
+POINTS  flags=0x1  Wing_AP21Deer_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1047
+POINTS  flags=0x1  Wing_AP21KingCloak_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1511
+POINTS  flags=0x1  Wing_AP21LinenScarf_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1423
+POINTS  flags=0x1  Wing_AP21SilkSash_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1282
+POINTS  flags=0x1  Wing_AP21SilkShawl_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1402
+POINTS  flags=0x1  Wing_AP22Designer_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1307
+FAIL  flags=0x1  Wing_AP23CellistCloak_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Wing_AP23CellistShawl_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Wing_AP23PianistCloak_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2473
+FAIL  flags=0x1  Wing_AP23PianistShawl_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Wing_AP24Arms_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=571
+POINTS  flags=0x1  Wing_AP24Bell_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1235
+FAIL  flags=0x1  Wing_AP24Triangle_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Wing_AP25Detached_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1341
+POINTS  flags=0x1  Wing_AP25DyeCloth_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1373
+POINTS  flags=0x1  Wing_AP25Ribbons_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1451
+FAIL  flags=0x1  Wing_AP26BlueBird_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Wing_AP26Heuke_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2885
+POINTS  flags=0x1  Wing_AP26Hourglass_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2505
+POINTS  flags=0x1  Wing_AP26MoonCloak_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2778
+POINTS  flags=0x1  Wing_AP27Darkness_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1815
+POINTS  flags=0x1  Wing_AP27GuardCape_StripAnim_CompOcc_ZipPos_StripNorm  v=1189
+POINTS  flags=0x1  Wing_AP27NightElder_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2364
+POINTS  flags=0x1  Wing_AP28BirdWhisperer_StripAnim_CompOcc_ZipPos_StripNorm  v=1331
+POINTS  flags=0x1  Wing_AP28CharmerCape_StripAnim_CompOcc_ZipPos_StripNorm  v=2338
+POINTS  flags=0x1  Wing_AP28GuardianCape_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2066
+POINTS  flags=0x1  Wing_AP28MantaWhisperer_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1362
+POINTS  flags=0x1  Wing_AP29DoubleFive_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1424
+FAIL  flags=0x1  Wing_AP29LightStrands_StripAnim_CompOcc_ZipPos_StripNorm: bad shared
+SKIP  flags=0x50001  Wing_AP29Shush_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm
+POINTS  flags=0x1  Wing_AP30Curly_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2137
+SKIP  flags=0x50001  Wing_AP30Longcoat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm
+POINTS  flags=0x1  Wing_AP30SpiritBird_StripAnim_CompOcc_ZipPos_StripNorm  v=3034
+SKIP  flags=0x60001  Wing_AP31AlmondBlossom_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm
+SKIP  flags=0x50001  Wing_AP31Postman_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm
+SKIP  flags=0x50001  Wing_AP31RedCape_StripAnim_CompOcc_ZipPos_StripNorm
+FAIL  flags=0x1  Wing_AP31SheerShawl_StripAnim_CompOcc_ZipPos_StripNorm: bad shared
+SKIP  flags=0x50001  Wing_AP31Starry_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm
+SKIP  flags=0x60001  Wing_AP31StrawHat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm
+SKIP  flags=0x60001  Wing_AP31Wheat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm
+POINTS  flags=0x1  Wing_AP32BlueTear_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1817
+POINTS  flags=0x1  Wing_AP32Fishernet_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2402
+POINTS  flags=0x1  Wing_AP32Ribbon_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1120
+FAIL  flags=0x1  Wing_AP32SailorShort_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Wing_AP32SeaArmour_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Wing_AnnivTuxedo_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1064
+FAIL  flags=0x1  Wing_BandJacket_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Wing_BloomSunflowerLong_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Wing_BloomSunflower_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Wing_CallaLily_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1141
+FAIL  flags=0x1  Wing_CapeMC_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Wing_CherryBlossom_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Wing_ClassicDiamonds_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Wing_ClassicRey_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=960
+FAIL  flags=0x1  Wing_ClassicTrim_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Wing_Classic_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1732
+POINTS  flags=0x1  Wing_Cobweb_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1755
+SKIP  flags=0x50001  Wing_ColorBrushShawl_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm
+POINTS  flags=0x1  Wing_ColorShawl_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2172
+POINTS  flags=0x1  Wing_Crabula_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=813
+POINTS  flags=0x1  Wing_Design01_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=3071
+POINTS  flags=0x1  Wing_FeastFluffyShawl_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1861
+SKIP  flags=0x50001  Wing_FeastScarf_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm
+POINTS  flags=0x1  Wing_FishPattern_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1221
+POINTS  flags=0x1  Wing_Flow_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1093
+POINTS  flags=0x1  Wing_FortuneDragon_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1504
+POINTS  flags=0x1  Wing_FortuneFish_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2592
+FAIL  flags=0x1  Wing_FortuneHorse_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Wing_FortuneSnake_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2273
+POINTS  flags=0x1  Wing_Fortune_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2037
+POINTS  flags=0x1  Wing_FriendshipDuck_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1624
+SKIP  flags=0x50001  Wing_IvoryBow_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm
+FAIL  flags=0x1  Wing_LinenCover_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Wing_MageCloak_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Wing_Meteor_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1122
+POINTS  flags=0x1  Wing_MischiefBatWing_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=793
+FAIL  flags=0x1  Wing_MischiefBat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Wing_MischiefCat_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=614
+POINTS  flags=0x1  Wing_MischiefGoth_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1861
+POINTS  flags=0x1  Wing_Moonlight_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1593
+POINTS  flags=0x1  Wing_Moth_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1044
+FAIL  flags=0x1  Wing_NERibbonBow_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Wing_NatureWaterfall_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=718
+POINTS  flags=0x1  Wing_OceanWaves_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1109
+POINTS  flags=0x1  Wing_PastryCloud_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=965
+POINTS  flags=0x1  Wing_Pizzahut_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1277
+POINTS  flags=0x1  Wing_RainbowDark_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1125
+FAIL  flags=0x1  Wing_RainbowLight_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Wing_Raven_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+FAIL  flags=0x1  Wing_RibbonBow_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Wing_RibbonDressCape_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1131
+POINTS  flags=0x1  Wing_RosePattern_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2067
+POINTS  flags=0x1  Wing_Santa_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1103
+POINTS  flags=0x1  Wing_SeaFoam_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1723
+POINTS  flags=0x1  Wing_SeaTurtle_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1161
+POINTS  flags=0x1  Wing_Snowflake_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1268
+POINTS  flags=0x1  Wing_Sparrow_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1407
+FAIL  flags=0x1  Wing_SpiderWeb_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Wing_SunlightShawl_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1404
+POINTS  flags=0x1  Wing_SunlightTowelBlue_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1498
+POINTS  flags=0x1  Wing_SunlightTowelPink_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1400
+POINTS  flags=0x1  Wing_SunlightTowelYellow_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1441
+POINTS  flags=0x1  Wing_Switch_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1395
+SKIP  flags=0x50001  Wing_TGCBlackHoodie_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm
+POINTS  flags=0x1  Wing_TGCHoodie_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1280
+POINTS  flags=0x1  Wing_TGCWireframeEvergreen_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2308
+POINTS  flags=0x1  Wing_TGCWireframe_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=3042
+POINTS  flags=0x1  Wing_TeamDusk_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=616
+POINTS  flags=0x1  Wing_TeamPrairie_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=603
+POINTS  flags=0x1  Wing_TeamRain_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=614
+POINTS  flags=0x1  Wing_TeamSunset_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=627
+POINTS  flags=0x1  Wing_TravelerRed_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2010
+POINTS  flags=0x1  Wing_TravelerWhite_StripAnim_CompOcc_ZipPos_StripNorm  v=2092
+SKIP  flags=0x50001  Wing_TreasureCoin_StripAnim_CompOcc_ZipPos_StripNorm
+POINTS  flags=0x1  Wing_TriumphIce_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=667
+POINTS  flags=0x1  Wing_Tulip_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1344
+POINTS  flags=0x1  Wing_WaterWave_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1330
+POINTS  flags=0x1  Wing_WerewolfWitch_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=2147
+POINTS  flags=0x1  Wing_WinterElder_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1428
+POINTS  flags=0x1  Wing_WinterPuffer_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1321
+POINTS  flags=0x1  Wing_Wisteria_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=707
+FAIL  flags=0x1  Wing_Withered_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm: bad shared
+POINTS  flags=0x1  Wing_YellowDuck_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1624
+POINTS  flags=0x1  Wing_YetiFur_StripAnim_CompOcc_ZipPos_ZipUvs_StripNorm  v=1231
+FAIL  flags=0x1  WireHangFlagAnim: bad shared
+POINTS  flags=0x1  WireHangFlagAnimRainbow  v=93
+FAIL  flags=0x1  WireHangFlagOnSticksAnim_Long: bad shared
+FAIL  flags=0x1  WireHangFlagOnSticksAnim_Short: ZipPos overrun
+FAIL  flags=0x1  WireHangFlagRed: bad shared
+FAIL  flags=0x1  WisteriaLeafCS_01: bad shared
+FAIL  flags=0x1  WisteriaLeaf_01: bad shared
+FAIL  flags=0x1  WisteriaLeaf_01b: bad shared
+FAIL  flags=0x1  WisteriaLeaf_01c: bad shared
+FAIL  flags=0x1  WisteriaLeaf_01d: bad shared
+FAIL  flags=0x1  WisteriaLeaf_01e: bad shared
+FAIL  flags=0x1  WisteriaLeaf_02: bad shared
+FAIL  flags=0x1  WisteriaLeaf_03: bad shared
+FAIL  flags=0x1  birdAnimFlyPose: bad shared
+FAIL  flags=0x1  twinRibbon_Display: bad shared
+FAIL  flags=0x1  twinRibbon_DisplayFrame: bad shared
+FAIL  flags=0x1  twinRibbon_DistortionField: bad shared
+SUMMARY {'ok': 5626, 'points': 778, 'skip': 14, 'fail': 782}

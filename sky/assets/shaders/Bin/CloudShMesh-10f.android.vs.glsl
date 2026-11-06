@@ -1,0 +1,180 @@
+#version 450
+
+invariant gl_Position;
+
+layout(set = 0, binding = 2, std140) uniform _99_101
+{
+    vec4 _m0;
+    vec4 _m1;
+    vec4 _m2;
+    vec4 _m3;
+    vec4 _m4;
+    vec4 _m5;
+    mat4 _m6;
+    mat4 _m7;
+    mat4 _m8;
+    mat4 _m9;
+    mat4 _m10;
+    mat4 _m11;
+    mat4 _m12;
+    vec4 _m13;
+    vec4 _m14;
+    vec4 _m15;
+    vec4 _m16;
+    vec3 _m17;
+    float _m18;
+    float _m19;
+    float _m20;
+    float _m21;
+    float _m22;
+    float _m23;
+    float _m24;
+    float _m25;
+    uint _m26;
+    vec4 _m27;
+    vec3 _m28;
+    float _m29;
+    vec3 _m30;
+    float _m31;
+    vec4 _m32;
+    vec4 _m33;
+    vec3 _m34;
+    vec3 _m35;
+    vec3 _m36;
+    vec3 _m37;
+    vec3 _m38;
+    vec3 _m39;
+    vec4 _m40;
+    vec2 _m41;
+    vec2 _m42;
+    float _m43;
+    vec3 _m44;
+    float _m45;
+    vec4 _m46;
+    vec3 _m47;
+    float _m48;
+    vec3 _m49;
+    float _m50;
+    vec3 _m51;
+    float _m52;
+    vec3 _m53;
+    vec3 _m54;
+    vec4 _m55;
+    vec4 _m56;
+    float _m57;
+    float _m58;
+    float _m59;
+    vec4 _m60;
+    vec3 _m61;
+    float _m62;
+    vec4 _m63;
+    vec4 _m64;
+    vec4 _m65;
+    vec4 _m66;
+    vec3 _m67;
+    vec3 _m68;
+    vec3 _m69;
+    vec3 _m70;
+    vec4 _m71;
+    vec4 _m72;
+    vec4 _m73;
+    vec4 _m74;
+    vec4 _m75;
+    vec4 _m76;
+    vec3 _m77;
+    vec3 _m78;
+    vec4 _m79;
+    vec4 _m80;
+    vec4 _m81;
+    vec4 _m82;
+    vec3 _m83;
+    vec3 _m84;
+    vec3 _m85;
+    float _m86;
+    vec3 _m87;
+    float _m88;
+    vec3 _m89;
+    vec3 _m90;
+    float _m91;
+    vec3 _m92;
+    vec3 _m93;
+    vec3 _m94;
+    vec3 _m95;
+    float _m96;
+    vec4 _m97;
+    uvec4 _m98;
+} _101;
+
+layout(set = 0, binding = 0, std140) uniform _209_211
+{
+    mat4 _m0;
+    float _m1;
+    vec3 _m2;
+    float _m3;
+    float _m4;
+} _211;
+
+layout(location = 0) in vec3 _203;
+layout(location = 3) out vec4 _270;
+layout(location = 2) in vec4 _272;
+layout(location = 4) out vec4 _274;
+layout(location = 3) in vec4 _275;
+layout(location = 5) out vec4 _277;
+layout(location = 4) in vec4 _278;
+layout(location = 1) invariant out vec4 _280;
+layout(location = 1) in vec4 _281;
+layout(location = 0) out vec3 _284;
+layout(location = 2) out vec4 _310;
+layout(location = 5) in vec4 _317;
+layout(location = 6) out vec4 _323;
+
+void main()
+{
+    vec4 _201 = vec4(_203, 1.0);
+    _201 = _211._m0 * _201;
+    vec3 _218 = _201.xyz;
+    vec2 _376 = vec2((0.093249998986721038818359375 * _101._m20) + (0.12999999523162841796875 * (_218.y + (0.20000000298023223876953125 * _218.x))), (0.18649999797344207763671875 * _101._m20) + (0.064999997615814208984375 * ((-_218.z) + (0.20000000298023223876953125 * _218.y))));
+    vec2 _377 = vec2((0.3729999959468841552734375 * _101._m20) + (0.0324999988079071044921875 * ((-_218.x) + (0.20000000298023223876953125 * _218.z))), (1.3519999980926513671875 * _101._m20) + (_218.y * 0.20000000298023223876953125));
+    vec2 _379 = _376;
+    vec2 _461 = vec2(sin(_379.x), sin(_379.y));
+    vec2 _378 = _461;
+    vec2 _381 = _377;
+    vec2 _470 = vec2(sin(_381.x), sin(_381.y));
+    vec2 _380 = _470;
+    float _382 = ((0.25 * _378.x) + (0.5 * _378.y)) + (1.0 * _380.x);
+    _218.y -= ((_101._m88 * (_382 - 1.0)) * 2.0);
+    float _383 = ((-_101._m88) * 0.300000011920928955078125) * _380.y;
+    _201.x = _218.x;
+    _201.y = _218.y;
+    _201.z = _218.z;
+    float _217 = _383;
+    vec4 _236 = _201;
+    vec3 _238 = _236.xyz - (_101._m12[2].xyz * _217);
+    _201.x = _238.x;
+    _201.y = _238.y;
+    _201.z = _238.z;
+    vec4 _245 = _201;
+    if (_211._m1 != 0.0)
+    {
+        _245.y = _101._m96 - _245.y;
+    }
+    vec4 _267 = _101._m8 * _245;
+    gl_Position = _267;
+    _270 = _272;
+    _274 = _275;
+    _277 = _278;
+    _280 = _281;
+    _284 = _101._m17 - _201.xyz;
+    mat4 _292 = _211._m0;
+    vec3 _295 = _281.xyz;
+    mat4 _479 = _292;
+    mat3 _488 = mat3(vec3(cross(_479[1].xyz, _479[2].xyz)), vec3(cross(_479[2].xyz, _479[0].xyz)), vec3(cross(_479[0].xyz, _479[1].xyz)));
+    vec3 _480 = normalize(_488 * _295);
+    _280.x = _480.x;
+    _280.y = _480.y;
+    _280.z = _480.z;
+    _310 = vec4(_211._m2, 1.0);
+    _310.w = _317.w;
+    _323 = vec4(mix((_310.xyz * 0.014999999664723873138427734375) + vec3(0.0350000001490116119384765625), _310.xyz, vec3(_211._m4)), 1.0 - _211._m4);
+}
+

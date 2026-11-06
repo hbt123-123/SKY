@@ -1,0 +1,193 @@
+#version 450
+
+layout(set = 1, binding = 2, std140) uniform _84_86
+{
+    vec4 _m0;
+    vec4 _m1;
+    vec4 _m2;
+    vec4 _m3;
+    vec4 _m4;
+    vec4 _m5;
+    mat4 _m6;
+    mat4 _m7;
+    mat4 _m8;
+    mat4 _m9;
+    mat4 _m10;
+    mat4 _m11;
+    mat4 _m12;
+    vec4 _m13;
+    vec4 _m14;
+    vec4 _m15;
+    vec4 _m16;
+    vec3 _m17;
+    float _m18;
+    float _m19;
+    float _m20;
+    float _m21;
+    float _m22;
+    float _m23;
+    float _m24;
+    float _m25;
+    uint _m26;
+    vec4 _m27;
+    vec3 _m28;
+    float _m29;
+    vec3 _m30;
+    float _m31;
+    vec4 _m32;
+    vec4 _m33;
+    vec3 _m34;
+    vec3 _m35;
+    vec3 _m36;
+    vec3 _m37;
+    vec3 _m38;
+    vec3 _m39;
+    vec4 _m40;
+    vec2 _m41;
+    vec2 _m42;
+    float _m43;
+    vec3 _m44;
+    float _m45;
+    vec4 _m46;
+    vec3 _m47;
+    float _m48;
+    vec3 _m49;
+    float _m50;
+    vec3 _m51;
+    float _m52;
+    vec3 _m53;
+    vec3 _m54;
+    vec4 _m55;
+    vec4 _m56;
+    float _m57;
+    float _m58;
+    float _m59;
+    vec4 _m60;
+    vec3 _m61;
+    float _m62;
+    vec4 _m63;
+    vec4 _m64;
+    vec4 _m65;
+    vec4 _m66;
+    vec3 _m67;
+    vec3 _m68;
+    vec3 _m69;
+    vec3 _m70;
+    vec4 _m71;
+    vec4 _m72;
+    vec4 _m73;
+    vec4 _m74;
+    vec4 _m75;
+    vec4 _m76;
+    vec3 _m77;
+    vec3 _m78;
+    vec4 _m79;
+    vec4 _m80;
+    vec4 _m81;
+    vec4 _m82;
+    vec3 _m83;
+    vec3 _m84;
+    vec3 _m85;
+    float _m86;
+    vec3 _m87;
+    float _m88;
+    vec3 _m89;
+    vec3 _m90;
+    float _m91;
+    vec3 _m92;
+    vec3 _m93;
+    vec3 _m94;
+    vec3 _m95;
+    float _m96;
+    vec4 _m97;
+    uvec4 _m98;
+} _86;
+
+layout(set = 1, binding = 3) uniform samplerCube _72;
+layout(set = 1, binding = 4) uniform mediump sampler2D _173;
+
+layout(location = 8) in float _119;
+layout(location = 3) in vec3 _125;
+layout(location = 6) in vec4 _136;
+layout(location = 4) in vec4 _139;
+layout(location = 5) in vec4 _151;
+layout(location = 7) in vec3 _191;
+layout(location = 0) in vec3 _201;
+layout(location = 1) in vec4 _230;
+layout(location = 0) out vec4 _368;
+
+void main()
+{
+    float _120 = _119;
+    vec2 _395 = gl_FragCoord.xy * 0.00999999977648258209228515625;
+    vec3 _409 = fract(_395 * 443.897491455078125).xyx;
+    _409 += vec3(dot(_409, _409.yzx + vec3(19.1900005340576171875)));
+    float _410 = fract((_409.x + _409.y) * _409.z);
+    float _394 = _410;
+    bool _396 = _394 < _120;
+    if (_396)
+    {
+        discard;
+    }
+    vec3 _128 = _86._m17 - _125;
+    vec4 _135 = _136;
+    float _138 = _139.y;
+    vec3 _142 = vec3(0.85000002384185791015625);
+    float _145 = float(_139.x != 0.0);
+    bool _155 = _151.x > 0.5;
+    bool _161;
+    if (_155)
+    {
+        _161 = _139.x != 0.0;
+    }
+    else
+    {
+        _161 = _155;
+    }
+    bool _150 = _161;
+    if (_150)
+    {
+        discard;
+    }
+    vec2 _166 = _139.xy;
+    vec3 _169 = texture(_173, _166).xyz;
+    _142 = mix(vec3(0.0500000007450580596923828125), _169, vec3(_145));
+    _135 *= 0.20000000298023223876953125;
+    vec3 _187 = vec3(0.0);
+    float _189 = 0.0;
+    vec3 _190 = _191 - _86._m17;
+    vec3 _196 = normalize(-_125);
+    vec3 _200 = normalize(_201);
+    vec3 _208 = _128 - _191;
+    float _212 = length(_208);
+    _208 /= vec3(_212);
+    float _219 = step(0.5, _138);
+    _219 = step(0.5, _151.y);
+    _219 *= (1.0 - _145);
+    float _229 = _230.z;
+    _142 = mix(_142, _135.xyz, vec3(_219));
+    vec3 _239 = _86._m17 + (_196 * dot(_190, _196));
+    float _248 = distance(_239, _191);
+    float _252 = 1.0 - smoothstep(0.0, 0.300000011920928955078125, pow(_248, 0.64999997615814208984375));
+    float _259 = (1.0 / (pow(_248, 2.7000000476837158203125) + 0.0001300000003539025783538818359375)) * (0.00179999996908009052276611328125 + (_229 * 0.014999999664723873138427734375));
+    _189 += ((_252 + _259) * 0.20000000298023223876953125);
+    float _278 = max(_212, 0.0500000007450580596923828125) * 2.0;
+    _189 += ((1.0 / (_278 * _278)) * 0.0861999988555908203125);
+    _189 *= 0.100000001490116119384765625;
+    _189 *= ((abs(dot(_200, _208)) * 0.25) + 0.75);
+    _189 *= (1.0 + (sin((_86._m20 * 5.0) + _230.y) * 0.300000011920928955078125));
+    _187 += (_142 * min(_189, 0.0040000001899898052215576171875));
+    vec3 _324 = _142;
+    float _335 = 0.5 + ((_229 * _135.w) * 5.0);
+    float _434 = clamp(_335, 0.0, 1.0);
+    _324 = mix(_324, _135.xyz, vec3(_434));
+    _187 += (((_324 * _189) * smoothstep(0.0, 0.0040000001899898052215576171875, _189)) * _142);
+    vec3 _351 = _200;
+    float _353 = 4.0;
+    vec4 _438 = textureLod(_72, _351, _353);
+    vec3 _439 = (_438.xyz * _438.xyz) * (_86._m43 / _438.w);
+    vec3 _349 = mix(_439, _86._m55.www, vec3(0.5));
+    _187 += (_142 * _349);
+    _368 = vec4(_187, 0.0);
+}
+

@@ -1,0 +1,512 @@
+[
+  {
+    "type": "LevelLink",
+    "label": "关卡门",
+    "position": [
+      1723.217529296875,
+      0.0,
+      -1572.513916015625
+    ],
+    "color": "#a0b4ff"
+  },
+  {
+    "type": "Flame",
+    "label": "火焰",
+    "position": [
+      111.07709503173828,
+      0.5873510241508484,
+      -161.88699340820312
+    ],
+    "color": "#ff7a3c"
+  },
+  {
+    "type": "Flame",
+    "label": "火焰",
+    "position": [
+      111.08268737792969,
+      0.6923509836196899,
+      -161.89500427246094
+    ],
+    "color": "#ff7a3c"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      176.76629638671875,
+      1364.8759765625,
+      876.6688842773438
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      1665.550048828125,
+      0.0,
+      -1512.5799560546875
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      141.28680419921875,
+      1778.0360107421875,
+      -77.98396301269531
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      885.2000122070312,
+      800.4000244140625,
+      -1029.300048828125
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      1637.4000244140625,
+      0.0,
+      -1513.18994140625
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      1619.1800537109375,
+      0.0,
+      -1521.43994140625
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      1729.18994140625,
+      0.0,
+      -1514.6400146484375
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      1725.261962890625,
+      0.0,
+      -1517.93994140625
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      1632.52001953125,
+      0.0,
+      -1513.18994140625
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      1658.5400390625,
+      0.0,
+      -1512.5799560546875
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      1576.469970703125,
+      0.0,
+      -1514.0889892578125
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      184.52450561523438,
+      1395.427001953125,
+      846.4674072265625
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      1649.25,
+      0.0,
+      -1494.9100341796875
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      909.5,
+      1073.199951171875,
+      -1294.800048828125
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      575.4600219726562,
+      888.1799926757812,
+      -320.8999938964844
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      1674.75,
+      0.0,
+      -1512.5799560546875
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      1649.489990234375,
+      0.0,
+      -1503.7099609375
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      196.19700622558594,
+      1363.4150390625,
+      868.890625
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      1653.489990234375,
+      0.0,
+      -1505.4599609375
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      1651.6300048828125,
+      0.0,
+      -1512.47998046875
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      1558.550048828125,
+      0.5153970122337341,
+      -1529.6400146484375
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      1733.550048828125,
+      0.0,
+      -1517.93994140625
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      1618.97998046875,
+      0.0,
+      -1513.18994140625
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      871.2999877929688,
+      800.4000244140625,
+      -979.1300048828125
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      1631.1629638671875,
+      0.0,
+      -1521.43994140625
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      193.4884033203125,
+      1326.2650146484375,
+      930.4688110351562
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      1620.7509765625,
+      0.0,
+      -1521.43994140625
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      626.0,
+      1361.0,
+      -640.0
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      1671.6600341796875,
+      0.0,
+      -1512.5799560546875
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      1681.280029296875,
+      0.0,
+      -1490.925048828125
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      209.24090576171875,
+      1894.469970703125,
+      50.4893913269043
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      202.4906005859375,
+      1874.876953125,
+      -29.689529418945312
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      1643.2340087890625,
+      0.0,
+      -1490.925048828125
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      201.04049682617188,
+      1908.8480224609375,
+      20.832250595092773
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      554.4271240234375,
+      632.7855224609375,
+      -902.9000244140625
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      1641.97998046875,
+      0.0,
+      -1502.5899658203125
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      1641.97998046875,
+      0.0,
+      -1503.969970703125
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      1632.52001953125,
+      0.0,
+      -1513.18994140625
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      50.189998626708984,
+      217.41000366210938,
+      -118.08999633789062
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "SoundEmitter",
+    "label": "音效点",
+    "position": [
+      1614.47998046875,
+      0.0,
+      -1513.18994140625
+    ],
+    "color": "#9ad0ff"
+  },
+  {
+    "type": "DisplayText",
+    "label": "显示文字",
+    "position": [
+      1602.4000244140625,
+      0.0,
+      -1478.199951171875
+    ],
+    "color": "#d0d8e0"
+  },
+  {
+    "type": "PointLight",
+    "label": "点光源",
+    "position": [
+      1614.27197265625,
+      958.676025390625,
+      -1466.6612548828125
+    ],
+    "color": "#ffef9e"
+  },
+  {
+    "type": "PointLight",
+    "label": "点光源",
+    "position": [
+      871.117919921875,
+      1172.8740234375,
+      -739.702880859375
+    ],
+    "color": "#ffef9e"
+  },
+  {
+    "type": "PointLight",
+    "label": "点光源",
+    "position": [
+      481.96490478515625,
+      1313.240966796875,
+      -2033.1259765625
+    ],
+    "color": "#ffef9e"
+  },
+  {
+    "type": "PointLight",
+    "label": "点光源",
+    "position": [
+      238.60870361328125,
+      648.3829956054688,
+      -322.4020080566406
+    ],
+    "color": "#ffef9e"
+  },
+  {
+    "type": "PointLight",
+    "label": "点光源",
+    "position": [
+      215.95150756835938,
+      445.9014892578125,
+      -270.24688720703125
+    ],
+    "color": "#ffef9e"
+  },
+  {
+    "type": "PointLight",
+    "label": "点光源",
+    "position": [
+      107.0322036743164,
+      249.86419677734375,
+      -196.8677978515625
+    ],
+    "color": "#ffef9e"
+  },
+  {
+    "type": "PointLight",
+    "label": "点光源",
+    "position": [
+      505.960693359375,
+      900.101318359375,
+      57.81174087524414
+    ],
+    "color": "#ffef9e"
+  }
+]
