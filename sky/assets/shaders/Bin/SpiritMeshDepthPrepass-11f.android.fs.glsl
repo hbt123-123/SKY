@@ -1,0 +1,178 @@
+#version 450
+
+layout(set = 1, binding = 0, std140) uniform _378_380
+{
+    float _m0;
+} _380;
+
+layout(set = 1, binding = 2, std140) uniform _403_405
+{
+    vec4 _m0;
+    vec4 _m1;
+    vec4 _m2;
+    vec4 _m3;
+    vec4 _m4;
+    vec4 _m5;
+    mat4 _m6;
+    mat4 _m7;
+    mat4 _m8;
+    mat4 _m9;
+    mat4 _m10;
+    mat4 _m11;
+    mat4 _m12;
+    vec4 _m13;
+    vec4 _m14;
+    vec4 _m15;
+    vec4 _m16;
+    vec3 _m17;
+    float _m18;
+    float _m19;
+    float _m20;
+    float _m21;
+    float _m22;
+    float _m23;
+    float _m24;
+    float _m25;
+    uint _m26;
+    vec4 _m27;
+    vec3 _m28;
+    float _m29;
+    vec3 _m30;
+    float _m31;
+    vec4 _m32;
+    vec4 _m33;
+    vec3 _m34;
+    vec3 _m35;
+    vec3 _m36;
+    vec3 _m37;
+    vec3 _m38;
+    vec3 _m39;
+    vec4 _m40;
+    vec2 _m41;
+    vec2 _m42;
+    float _m43;
+    vec3 _m44;
+    float _m45;
+    vec4 _m46;
+    vec3 _m47;
+    float _m48;
+    vec3 _m49;
+    float _m50;
+    vec3 _m51;
+    float _m52;
+    vec3 _m53;
+    vec3 _m54;
+    vec4 _m55;
+    vec4 _m56;
+    float _m57;
+    float _m58;
+    float _m59;
+    vec4 _m60;
+    vec3 _m61;
+    float _m62;
+    vec4 _m63;
+    vec4 _m64;
+    vec4 _m65;
+    vec4 _m66;
+    vec3 _m67;
+    vec3 _m68;
+    vec3 _m69;
+    vec3 _m70;
+    vec4 _m71;
+    vec4 _m72;
+    vec4 _m73;
+    vec4 _m74;
+    vec4 _m75;
+    vec4 _m76;
+    vec3 _m77;
+    vec3 _m78;
+    vec4 _m79;
+    vec4 _m80;
+    vec4 _m81;
+    vec4 _m82;
+    vec3 _m83;
+    vec3 _m84;
+    vec3 _m85;
+    float _m86;
+    vec3 _m87;
+    float _m88;
+    vec3 _m89;
+    vec3 _m90;
+    float _m91;
+    vec3 _m92;
+    vec3 _m93;
+    vec3 _m94;
+    vec3 _m95;
+    float _m96;
+    vec4 _m97;
+    uvec4 _m98;
+} _405;
+
+layout(location = 2) in vec3 _374;
+layout(location = 4) in vec4 _392;
+layout(location = 0) out vec4 _437;
+layout(location = 1) out vec4 _438;
+
+void main()
+{
+    vec3 _372 = normalize(_374);
+    float _377 = _380._m0;
+    vec3 _413 = (_372 * 100.0) + vec3(_405._m20 * 2.5);
+    vec3 _465 = floor(_413 + vec3(dot(_413, vec3(0.3333333432674407958984375))));
+    vec3 _466 = (_413 - _465) + vec3(dot(_465, vec3(0.16666667163372039794921875)));
+    vec3 _467 = step(_466.yzx, _466);
+    vec3 _468 = vec3(1.0) - _467;
+    vec3 _469 = min(_467, _468.zxy);
+    vec3 _470 = max(_467, _468.zxy);
+    vec3 _471 = (_466 - _469) + vec3(0.16666667163372039794921875);
+    vec3 _472 = (_466 - _470) + vec3(0.3333333432674407958984375);
+    vec3 _473 = _466 - vec3(0.5);
+    _465 = mod(_465, vec3(289.0));
+    vec4 _475 = vec4(_465.z) + vec4(0.0, _469.z, _470.z, 1.0);
+    vec4 _763 = mod(((_475 * _475) * 34.0) + _475, vec4(289.0));
+    vec4 _476 = (_763 + vec4(_465.y)) + vec4(0.0, _469.y, _470.y, 1.0);
+    vec4 _773 = mod(((_476 * _476) * 34.0) + _476, vec4(289.0));
+    vec4 _477 = (_773 + vec4(_465.x)) + vec4(0.0, _469.x, _470.x, 1.0);
+    vec4 _783 = mod(((_477 * _477) * 34.0) + _477, vec4(289.0));
+    vec4 _474 = _783;
+    float _478 = 0.14285714924335479736328125;
+    vec3 _479 = (vec3(2.0, 0.5, 1.0) * _478) - vec3(0.0, 1.0, 0.0);
+    vec4 _480 = _474 - (floor((_474 * _479.z) * _479.z) * 49.0);
+    vec4 _481 = floor(_480 * _479.z);
+    vec4 _482 = floor(_480 - (_481 * 7.0));
+    vec4 _483 = (_481 * _479.x) + _479.yyyy;
+    vec4 _484 = (_482 * _479.x) + _479.yyyy;
+    vec4 _485 = (vec4(1.0) - abs(_483)) - abs(_484);
+    vec4 _486 = vec4(_483.xy, _484.xy);
+    vec4 _487 = vec4(_483.zw, _484.zw);
+    vec4 _488 = (floor(_486) * 2.0) + vec4(1.0);
+    vec4 _489 = (floor(_487) * 2.0) + vec4(1.0);
+    vec4 _490 = -step(_485, vec4(0.0));
+    vec4 _491 = _486.xzyw + (_488.xzyw * _490.xxyy);
+    vec4 _492 = _487.xzyw + (_489.xzyw * _490.zzww);
+    vec3 _493 = vec3(_491.xy, _485.x);
+    vec3 _494 = vec3(_491.zw, _485.y);
+    vec3 _495 = vec3(_492.xy, _485.z);
+    vec3 _496 = vec3(_492.zw, _485.w);
+    vec4 _498 = vec4(dot(_493, _493), dot(_494, _494), dot(_495, _495), dot(_496, _496));
+    vec4 _793 = vec4(1.792842864990234375) - (_498 * 0.8537347316741943359375);
+    vec4 _497 = _793;
+    _493 *= _497.x;
+    _494 *= _497.y;
+    _495 *= _497.z;
+    _496 *= _497.w;
+    vec4 _499 = max(vec4(0.60000002384185791015625) - vec4(dot(_466, _466), dot(_471, _471), dot(_472, _472), dot(_473, _473)), vec4(0.0));
+    _499 *= _499;
+    float _500 = 42.0 * dot(_499 * _499, vec4(dot(_493, _466), dot(_494, _471), dot(_495, _472), dot(_496, _473)));
+    float _416 = (1.10000002384185791015625 * ((1.0 - _377) - _392.w)) - _500;
+    float _799 = clamp(_416, 0.0, 1.0);
+    float _386 = smoothstep(0.0, 0.100000001490116119384765625, _799);
+    float _419 = 1.0 - float(_377 > (_386 * (1.0 - _392.w)));
+    if (_419 <= 0.001000000047497451305389404296875)
+    {
+        discard;
+    }
+    _437 = vec4(0.0);
+    _438 = vec4(0.0);
+}
+

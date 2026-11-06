@@ -1,0 +1,7 @@
+# 仅排除原始包/解包目录与临时文件；素材本体随仓库上传
+.screenshots/
+.uploads/
+Sky-0.16.7-421589-android.apk
+sky/apk/
+__pycache__/
+.done_p*

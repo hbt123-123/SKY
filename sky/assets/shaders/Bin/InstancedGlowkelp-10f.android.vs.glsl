@@ -1,0 +1,196 @@
+#version 450
+
+invariant gl_Position;
+
+layout(set = 0, binding = 2, std140) uniform _80_82
+{
+    vec4 _m0;
+    vec4 _m1;
+    vec4 _m2;
+    vec4 _m3;
+    vec4 _m4;
+    vec4 _m5;
+    mat4 _m6;
+    mat4 _m7;
+    mat4 _m8;
+    mat4 _m9;
+    mat4 _m10;
+    mat4 _m11;
+    mat4 _m12;
+    vec4 _m13;
+    vec4 _m14;
+    vec4 _m15;
+    vec4 _m16;
+    vec3 _m17;
+    float _m18;
+    float _m19;
+    float _m20;
+    float _m21;
+    float _m22;
+    float _m23;
+    float _m24;
+    float _m25;
+    uint _m26;
+    vec4 _m27;
+    vec3 _m28;
+    float _m29;
+    vec3 _m30;
+    float _m31;
+    vec4 _m32;
+    vec4 _m33;
+    vec3 _m34;
+    vec3 _m35;
+    vec3 _m36;
+    vec3 _m37;
+    vec3 _m38;
+    vec3 _m39;
+    vec4 _m40;
+    vec2 _m41;
+    vec2 _m42;
+    float _m43;
+    vec3 _m44;
+    float _m45;
+    vec4 _m46;
+    vec3 _m47;
+    float _m48;
+    vec3 _m49;
+    float _m50;
+    vec3 _m51;
+    float _m52;
+    vec3 _m53;
+    vec3 _m54;
+    vec4 _m55;
+    vec4 _m56;
+    float _m57;
+    float _m58;
+    float _m59;
+    vec4 _m60;
+    vec3 _m61;
+    float _m62;
+    vec4 _m63;
+    vec4 _m64;
+    vec4 _m65;
+    vec4 _m66;
+    vec3 _m67;
+    vec3 _m68;
+    vec3 _m69;
+    vec3 _m70;
+    vec4 _m71;
+    vec4 _m72;
+    vec4 _m73;
+    vec4 _m74;
+    vec4 _m75;
+    vec4 _m76;
+    vec3 _m77;
+    vec3 _m78;
+    vec4 _m79;
+    vec4 _m80;
+    vec4 _m81;
+    vec4 _m82;
+    vec3 _m83;
+    vec3 _m84;
+    vec3 _m85;
+    float _m86;
+    vec3 _m87;
+    float _m88;
+    vec3 _m89;
+    vec3 _m90;
+    float _m91;
+    vec3 _m92;
+    vec3 _m93;
+    vec3 _m94;
+    vec3 _m95;
+    float _m96;
+    vec4 _m97;
+    uvec4 _m98;
+} _82;
+
+layout(set = 0, binding = 0, std140) uniform _450_452
+{
+    mat4 _m0;
+    float _m1;
+    uint _m2;
+} _452;
+
+layout(set = 0, binding = 3) uniform samplerCube _68;
+
+layout(location = 0) in vec3 _241;
+layout(location = 2) in vec3 _244;
+layout(location = 5) in vec3 _247;
+layout(location = 7) in uvec4 _254;
+layout(location = 8) in uvec4 _281;
+layout(location = 0) out vec3 _446;
+layout(location = 1) out vec4 _481;
+layout(location = 1) in vec4 _483;
+layout(location = 6) out vec4 _485;
+layout(location = 3) out vec3 _494;
+layout(location = 7) out vec3 _507;
+layout(location = 8) out vec3 _515;
+layout(location = 4) out vec4 _521;
+layout(location = 3) in vec4 _522;
+layout(location = 5) out vec4 _524;
+layout(location = 4) in vec4 _525;
+layout(location = 2) out vec4 _527;
+
+void main()
+{
+    vec3 _239 = _241;
+    vec3 _243 = _244;
+    vec3 _246 = _247;
+    vec4 _252 = vec4(unpackHalf2x16(_254.x), unpackHalf2x16(_254.y));
+    vec2 _280 = vec2(unpackHalf2x16(_281.x));
+    vec2 _288 = vec2(unpackHalf2x16(_281.y));
+    float _295 = _280.x;
+    float _301 = _288.x;
+    vec4 _307 = vec4(float(_281.z & 255u), float((_281.z >> uint(8)) & 255u), float((_281.z >> uint(16)) & 255u), float((_281.z >> uint(24)) & 255u)) / vec4(255.0);
+    float _411 = _301;
+    vec3 _424 = _239;
+    vec3 _426 = _243;
+    _424 *= _411;
+    _239 = _424;
+    _243 = _426;
+    vec3 _431 = _239;
+    vec4 _433 = _252;
+    vec3 _759 = cross(_433.xyz, _431) + (_431 * _433.w);
+    vec3 _760 = _431 + (cross(_433.xyz, _759) * 2.0);
+    _239 = _760;
+    vec3 _436 = _243;
+    vec4 _438 = _252;
+    vec3 _778 = cross(_438.xyz, _436) + (_436 * _438.w);
+    vec3 _779 = _436 + (cross(_438.xyz, _778) * 2.0);
+    _243 = _779;
+    vec3 _441 = _239 + _246;
+    _446 = _243;
+    vec3 _448 = _441;
+    if (_452._m1 != 0.0)
+    {
+        _448.y = _82._m96 - _448.y;
+    }
+    vec4 _477 = vec4(_448, 1.0);
+    vec4 _478 = _82._m8 * _477;
+    gl_Position = _478;
+    _481 = _483;
+    _485 = _307;
+    _481.z *= (1.0 + _295);
+    _494 = _82._m17 - _441;
+    vec3 _499 = normalize(_494);
+    vec3 _502 = reflect(-_499, _446);
+    vec3 _510 = _446;
+    float _512 = 5.0;
+    vec4 _797 = textureLod(_68, _510, _512);
+    vec3 _798 = (_797.xyz * _797.xyz) * (_82._m43 / _797.w);
+    _507 = vec3(1.0) / _798;
+    vec3 _516 = _502;
+    float _518 = 5.0;
+    vec4 _815 = textureLod(_68, _516, _518);
+    vec3 _816 = (_815.xyz * _815.xyz) * (_82._m43 / _815.w);
+    _515 = vec3(1.0) / _816;
+    _521 = _522;
+    _524 = _525;
+    vec3 _538 = mix(_82._m51, _82._m47, vec3(0.25)) * 0.100000001490116119384765625;
+    _527.x = _538.x;
+    _527.y = _538.y;
+    _527.z = _538.z;
+    _527.w = 1.0;
+}
+

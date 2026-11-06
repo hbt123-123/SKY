@@ -1,0 +1,185 @@
+#version 450
+
+layout(set = 1, binding = 0, std140) uniform _52_54
+{
+    vec3 _m0;
+    float _m1;
+    float _m2;
+} _54;
+
+layout(set = 1, binding = 2, std140) uniform _84_86
+{
+    vec4 _m0;
+    vec4 _m1;
+    vec4 _m2;
+    vec4 _m3;
+    vec4 _m4;
+    vec4 _m5;
+    mat4 _m6;
+    mat4 _m7;
+    mat4 _m8;
+    mat4 _m9;
+    mat4 _m10;
+    mat4 _m11;
+    mat4 _m12;
+    vec4 _m13;
+    vec4 _m14;
+    vec4 _m15;
+    vec4 _m16;
+    vec3 _m17;
+    float _m18;
+    float _m19;
+    float _m20;
+    float _m21;
+    float _m22;
+    float _m23;
+    float _m24;
+    float _m25;
+    uint _m26;
+    vec4 _m27;
+    vec3 _m28;
+    float _m29;
+    vec3 _m30;
+    float _m31;
+    vec4 _m32;
+    vec4 _m33;
+    vec3 _m34;
+    vec3 _m35;
+    vec3 _m36;
+    vec3 _m37;
+    vec3 _m38;
+    vec3 _m39;
+    vec4 _m40;
+    vec2 _m41;
+    vec2 _m42;
+    float _m43;
+    vec3 _m44;
+    float _m45;
+    vec4 _m46;
+    vec3 _m47;
+    float _m48;
+    vec3 _m49;
+    float _m50;
+    vec3 _m51;
+    float _m52;
+    vec3 _m53;
+    vec3 _m54;
+    vec4 _m55;
+    vec4 _m56;
+    float _m57;
+    float _m58;
+    float _m59;
+    vec4 _m60;
+    vec3 _m61;
+    float _m62;
+    vec4 _m63;
+    vec4 _m64;
+    vec4 _m65;
+    vec4 _m66;
+    vec3 _m67;
+    vec3 _m68;
+    vec3 _m69;
+    vec3 _m70;
+    vec4 _m71;
+    vec4 _m72;
+    vec4 _m73;
+    vec4 _m74;
+    vec4 _m75;
+    vec4 _m76;
+    vec3 _m77;
+    vec3 _m78;
+    vec4 _m79;
+    vec4 _m80;
+    vec4 _m81;
+    vec4 _m82;
+    vec3 _m83;
+    vec3 _m84;
+    vec3 _m85;
+    float _m86;
+    vec3 _m87;
+    float _m88;
+    vec3 _m89;
+    vec3 _m90;
+    float _m91;
+    vec3 _m92;
+    vec3 _m93;
+    vec3 _m94;
+    vec3 _m95;
+    float _m96;
+    vec4 _m97;
+    uvec4 _m98;
+} _86;
+
+layout(set = 1, binding = 1, std140) uniform _335_337
+{
+    vec4 _m0;
+    vec2 _m1;
+} _337;
+
+layout(set = 1, binding = 3) uniform sampler2D _355;
+
+layout(location = 1) in vec3 _92;
+layout(location = 0) in vec4 _135;
+layout(location = 0) out vec4 _375;
+layout(location = 1) out vec4 _387;
+
+void main()
+{
+    float _49 = 0.20000000298023223876953125 - ((1.0 - _54._m2) * 0.17000000178813934326171875);
+    float _64 = 0.1500000059604644775390625 - ((1.0 - _54._m2) * 0.119999997317790985107421875);
+    vec4 _74 = vec4(0.5, 0.5, 0.5, _49);
+    vec3 _79 = (_86._m83 - _92) * (1.0 - (_54._m1 * 0.25));
+    float _107 = 1.0 - dot(_79, _79);
+    float _424 = max(_107, 0.0);
+    float _102 = _424;
+    _102 *= (_102 * _102);
+    float _114 = abs((length(_79) * 1.2999999523162841796875) - 1.0);
+    float _126 = 1.0 - (_114 * 30.0);
+    float _428 = max(_126, 0.0);
+    float _121 = (_428 * 0.5) * _54._m1;
+    vec2 _133 = ((_135.xy * vec2(4.0 + (_102 * 3.0))) * 1.5) + vec2((_86._m20 * 0.300000011920928955078125) * _54._m2);
+    float _157 = (0.100000001490116119384765625 + cos(_133.y + sin(0.1480000019073486328125 - (_86._m20 * _54._m2)))) + ((2.400000095367431640625 * _86._m20) * _54._m2);
+    float _181 = (0.89999997615814208984375 + sin(_133.x + cos(0.6280000209808349609375 + (_86._m20 * _54._m2)))) - ((0.699999988079071044921875 * _86._m20) * _54._m2);
+    float _205 = length(_133);
+    float _208 = ((7.0 * _54._m2) * cos(_205 + _181)) * sin(_157 + _181);
+    vec3 _223 = (cos(vec3(_208) + vec3(-1.2000000476837158203125, -1.10000002384185791015625, -1.2999999523162841796875)) * 0.5) + vec3(0.5);
+    _74.w += (_64 * cos(_208));
+    vec4 _249 = _74;
+    vec3 _251 = _249.xyz * (_223 * _54._m0);
+    _74.x = _251.x;
+    _74.y = _251.y;
+    _74.z = _251.z;
+    _74.w += _121;
+    float _274 = _74.w - (_102 * ((_54._m1 * 2.0) - 1.0));
+    float _432 = clamp(_274, 0.0, 1.0);
+    _74.w = _432 * 0.5;
+    vec4 _285 = _74;
+    vec3 _287 = _285.xyz + (((_223 * 30.0) * _54._m0) * _102);
+    _74.x = _287.x;
+    _74.y = _287.y;
+    _74.z = _287.z;
+    vec2 _294 = (_135.zw * 2.0) - vec2(1.0);
+    vec2 _300 = vec2(1.0) - pow(abs(_294), vec2(2.0));
+    _74.w *= min(_300.x, _300.y);
+    vec4 _322 = _74;
+    vec3 _324 = _322.xyz * (sqrt(_86._m55.w) * 0.785398185253143310546875);
+    _74.x = _324.x;
+    _74.y = _324.y;
+    _74.z = _324.z;
+    vec2 _331 = gl_FragCoord.xy * _337._m0.zw;
+    float _343 = 1.0 / gl_FragCoord.w;
+    float _362 = max(textureLod(_355, _331, 0.0).x, 1.0000000116860974230803549289703e-07);
+    float _436 = 1.0 / _362;
+    float _348 = _86._m24 * _436;
+    float _368 = _348 - _343;
+    float _440 = clamp(_368, 0.0, 1.0);
+    _74.w *= _440;
+    _375 = vec4(_74.xyz * _74.w, _74.w);
+    float _392 = 1.0 / gl_FragCoord.w;
+    float _393 = 256.0;
+    float _444 = log(_392 * 20.0) * (_393 * 0.079292468726634979248046875);
+    float _454 = max(_444, 0.0);
+    float _445 = _454;
+    _387 = vec4(_445 * _74.w, _74.w * 1000.0, 0.0, _74.w);
+}
+

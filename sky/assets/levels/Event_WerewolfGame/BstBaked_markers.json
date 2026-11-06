@@ -1,0 +1,62 @@
+[
+  {
+    "type": "PickupEmitter",
+    "label": "蜡堆",
+    "position": [
+      -245.74000549316406,
+      79.87999725341797,
+      -260.2799987792969
+    ],
+    "color": "#ffb74a"
+  },
+  {
+    "type": "Portal",
+    "label": "传送门",
+    "position": [
+      34.53200149536133,
+      3.246999979019165,
+      4.420000076293945
+    ],
+    "color": "#00e0c0"
+  },
+  {
+    "type": "LevelLink",
+    "label": "关卡门",
+    "position": [
+      -214.0,
+      0.0,
+      -271.0
+    ],
+    "color": "#a0b4ff"
+  },
+  {
+    "type": "LevelLink",
+    "label": "关卡门",
+    "position": [
+      -214.0,
+      0.0,
+      -273.0
+    ],
+    "color": "#a0b4ff"
+  },
+  {
+    "type": "LevelLink",
+    "label": "关卡门",
+    "position": [
+      -214.0,
+      0.0,
+      -269.0
+    ],
+    "color": "#a0b4ff"
+  },
+  {
+    "type": "LevelLink",
+    "label": "关卡门",
+    "position": [
+      -214.0,
+      0.0,
+      -267.0
+    ],
+    "color": "#a0b4ff"
+  }
+]

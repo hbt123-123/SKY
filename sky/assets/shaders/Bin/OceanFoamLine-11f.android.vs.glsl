@@ -1,0 +1,155 @@
+#version 450
+
+invariant gl_Position;
+
+layout(set = 0, binding = 0, std140) uniform _84_86
+{
+    mat4 _m0;
+    float _m1;
+    float _m2;
+    float _m3;
+} _86;
+
+layout(set = 0, binding = 2, std140) uniform _103_105
+{
+    vec4 _m0;
+    vec4 _m1;
+    vec4 _m2;
+    vec4 _m3;
+    vec4 _m4;
+    vec4 _m5;
+    mat4 _m6;
+    mat4 _m7;
+    mat4 _m8;
+    mat4 _m9;
+    mat4 _m10;
+    mat4 _m11;
+    mat4 _m12;
+    vec4 _m13;
+    vec4 _m14;
+    vec4 _m15;
+    vec4 _m16;
+    vec3 _m17;
+    float _m18;
+    float _m19;
+    float _m20;
+    float _m21;
+    float _m22;
+    float _m23;
+    float _m24;
+    float _m25;
+    uint _m26;
+    vec4 _m27;
+    vec3 _m28;
+    float _m29;
+    vec3 _m30;
+    float _m31;
+    vec4 _m32;
+    vec4 _m33;
+    vec3 _m34;
+    vec3 _m35;
+    vec3 _m36;
+    vec3 _m37;
+    vec3 _m38;
+    vec3 _m39;
+    vec4 _m40;
+    vec2 _m41;
+    vec2 _m42;
+    float _m43;
+    vec3 _m44;
+    float _m45;
+    vec4 _m46;
+    vec3 _m47;
+    float _m48;
+    vec3 _m49;
+    float _m50;
+    vec3 _m51;
+    float _m52;
+    vec3 _m53;
+    vec3 _m54;
+    vec4 _m55;
+    vec4 _m56;
+    float _m57;
+    float _m58;
+    float _m59;
+    vec4 _m60;
+    vec3 _m61;
+    float _m62;
+    vec4 _m63;
+    vec4 _m64;
+    vec4 _m65;
+    vec4 _m66;
+    vec3 _m67;
+    vec3 _m68;
+    vec3 _m69;
+    vec3 _m70;
+    vec4 _m71;
+    vec4 _m72;
+    vec4 _m73;
+    vec4 _m74;
+    vec4 _m75;
+    vec4 _m76;
+    vec3 _m77;
+    vec3 _m78;
+    vec4 _m79;
+    vec4 _m80;
+    vec4 _m81;
+    vec4 _m82;
+    vec3 _m83;
+    vec3 _m84;
+    vec3 _m85;
+    float _m86;
+    vec3 _m87;
+    float _m88;
+    vec3 _m89;
+    vec3 _m90;
+    float _m91;
+    vec3 _m92;
+    vec3 _m93;
+    vec3 _m94;
+    vec3 _m95;
+    float _m96;
+    vec4 _m97;
+    uvec4 _m98;
+} _105;
+
+layout(location = 3) out vec3 _83;
+layout(location = 0) in vec3 _91;
+layout(location = 2) out vec3 _99;
+layout(location = 1) out vec3 _112;
+layout(location = 1) in vec3 _113;
+layout(location = 0) out vec4 _121;
+layout(location = 2) in vec4 _123;
+layout(location = 4) out vec2 _126;
+layout(location = 3) in vec2 _128;
+
+void main()
+{
+    _83 = (_86._m0 * vec4(_91, 1.0)).xyz;
+    _99 = _105._m17 - _83;
+    mat4 _114 = _86._m0;
+    vec3 _117 = _113;
+    mat4 _199 = _114;
+    mat3 _208 = mat3(vec3(cross(_199[1].xyz, _199[2].xyz)), vec3(cross(_199[2].xyz, _199[0].xyz)), vec3(cross(_199[0].xyz, _199[1].xyz)));
+    vec3 _200 = normalize(_208 * _117);
+    _112 = _200;
+    _121 = _123;
+    _126 = _128;
+    float _130 = length(_99);
+    vec3 _133 = _99 / vec3(max(_130, 9.9999997473787516355514526367188e-05));
+    float _149 = (_130 * _130) * _86._m3;
+    float _244 = clamp(_149, 0.0, 1.0);
+    float _140 = _244;
+    float _156 = abs(_133.y);
+    float _248 = clamp(_156, 0.0, 1.0);
+    float _151 = _248;
+    float _163 = _140 * (1.0 + _151);
+    float _252 = clamp(_163, 0.0, 1.0);
+    float _158 = _252;
+    float _165 = mix(_86._m1, _86._m2, _158);
+    _83.y += _165;
+    vec4 _188 = vec4(_83, 1.0);
+    vec4 _189 = _105._m8 * _188;
+    gl_Position = _189;
+}
+

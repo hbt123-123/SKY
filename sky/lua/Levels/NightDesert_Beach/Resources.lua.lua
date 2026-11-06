@@ -1,0 +1,1033 @@
+resource("LevelObjects")("NightDesert_Beach")({
+  level = "NightDesert_Beach",
+  source = "Levels/NightDesert_Beach/Objects.level",
+  sourcesCount = 20,
+  sources = {
+    "Levels/NightDesert_Beach/Objects.level",
+    "Levels/NightDesert_Beach/Art.level",
+    "Levels/NightDesert_Beach/Art_Background.level",
+    "Levels/NightDesert_Beach/Benches.level",
+    "Levels/NightDesert_Beach/Boundaries.level",
+    "Levels/NightDesert_Beach/CandlesWaxWingBuffs.level",
+    "Levels/NightDesert_Beach/Days_Of_Love_2025_ART.level",
+    "Levels/NightDesert_Beach/Days_of_Love.level",
+    "Levels/NightDesert_Beach/Days_of_Love_2025.level",
+    "Levels/NightDesert_Beach/DoSunlight_2025_PhotoQuest.level",
+    "Levels/NightDesert_Beach/FarmersMarketV8.level",
+    "Levels/NightDesert_Beach/LocatedAudioSources.level",
+    "Levels/NightDesert_Beach/Logic.level",
+    "Levels/NightDesert_Beach/Map.level",
+    "Levels/NightDesert_Beach/Music.level",
+    "Levels/NightDesert_Beach/STAR_Pins_logic.level",
+    "Levels/NightDesert_Beach/Scheme_Memory_Cutscene.level",
+    "Levels/NightDesert_Beach/SpiritDailyQuests.level",
+    "Levels/NightDesert_Beach/StormEvent.level",
+    "Levels/NightDesert_Beach/cameraguides.level"
+  },
+  stripDebug = true
+})
+resource("Mesh")("AP11Star")({
+  source = "AP11Star.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("AuroraCard_01")({
+  source = "AuroraCard_01.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = false,
+  stripAnimation = false
+})
+resource("Mesh")("AuroraCard_02")({
+  source = "AuroraCard_02.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("BenchStone")({
+  source = "BenchStone.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("BoatDock_01")({
+  source = "BoatDock_01.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("CandleSpaceEndRiver_01")({
+  source = "CandleSpaceEndRiver_01.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = false,
+  stripAnimation = false
+})
+resource("Mesh")("CharBirdLowAnim")({
+  source = "CharBirdLowAnim.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = false,
+  stripAnimation = false
+})
+resource("Mesh")("CharClothWeaponDAnim")({
+  source = "CharClothWeaponDAnim.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("CharCrabBAnim")({
+  source = "CharCrabBAnim.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("CharEnvFlowerAnim")({
+  source = "CharEnvFlowerAnim.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = false,
+  stripAnimation = false
+})
+resource("Mesh")("CharEnvJellyfishAnim")({
+  source = "CharEnvJellyfishAnim.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = false,
+  stripAnimation = false
+})
+resource("Mesh")("CharSkyManateeBabyAnim")({
+  source = "CharSkyManateeBabyAnim.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("CharSkyRayCAnim")({
+  source = "CharSkyRayCAnim.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = false,
+  stripAnimation = false
+})
+resource("Mesh")("CloudRing_01")({
+  source = "CloudRing_01.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = false,
+  stripAnimation = false
+})
+resource("Mesh")("CloudRing_01b")({
+  source = "CloudRing_01b.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = false,
+  stripAnimation = false
+})
+resource("Mesh")("ConstellationAchievementStarField")({
+  source = "ConstellationAchievementStarField.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("CurrencyRibbon")({
+  source = "CurrencyRibbon.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("DCubeLOD_02")({
+  source = "DCubeLOD_02.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = false,
+  stripAnimation = false
+})
+resource("Mesh")("DoLoveHeart_01")({
+  source = "DoLoveHeart_01.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("DoLove_CrystalsLarge")({
+  source = "DoLove_CrystalsLarge.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("DoLove_CrystalsMedium")({
+  source = "DoLove_CrystalsMedium.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("DoLove_CrystalsSmall")({
+  source = "DoLove_CrystalsSmall.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("FriendshipStatue_01")({
+  source = "FriendshipStatue_01.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("GodLightTemple")({
+  source = "GodLightTemple.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("Gondola_01")({
+  source = "Gondola_01.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("HangingCloth_02Anim")({
+  source = "HangingCloth_02Anim.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("IslandSeat_03")({
+  source = "IslandSeat_03.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("IslandUmbrella_01")({
+  source = "IslandUmbrella_01.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("Jar")({
+  source = "Jar.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("JarAncestor")({
+  source = "JarAncestor.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("JarCrate")({
+  source = "JarCrate.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("JarCrateLid")({
+  source = "JarCrateLid.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("JarJumbo")({
+  source = "JarJumbo.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("JarMediumBrokenC")({
+  source = "JarMediumBrokenC.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("MerchantBoatLarge_02")({
+  source = "MerchantBoatLarge_02.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("MerchantBoatLarge_03")({
+  source = "MerchantBoatLarge_03.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("MerchantBoatLarge_Motif_01")({
+  source = "MerchantBoatLarge_Motif_01.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = false,
+  stripAnimation = false
+})
+resource("Mesh")("MerchantBoatLarge_Motif_02")({
+  source = "MerchantBoatLarge_Motif_02.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = false,
+  stripAnimation = false
+})
+resource("Mesh")("MerchantBoatLarge_Motif_03")({
+  source = "MerchantBoatLarge_Motif_03.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = false,
+  stripAnimation = false
+})
+resource("Mesh")("MerchantBoat_Desk_01")({
+  source = "MerchantBoat_Desk_01.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("MerchantBoat_FloorShelves_01")({
+  source = "MerchantBoat_FloorShelves_01.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("MerchantBoat_FloorShelves_02")({
+  source = "MerchantBoat_FloorShelves_02.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("MerchantBoat_Steps_01")({
+  source = "MerchantBoat_Steps_01.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("MerchantBoat_Tent_01")({
+  source = "MerchantBoat_Tent_01.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("MerchantBoat_Tent_02")({
+  source = "MerchantBoat_Tent_02.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("MerchantBoat_Tent_03")({
+  source = "MerchantBoat_Tent_03.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("MoteKey07")({
+  source = "MoteKey07.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("OrbitEndStarCluster")({
+  source = "OrbitEndStarCluster.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("OrbitEndTilingFlameCard")({
+  source = "OrbitEndTilingFlameCard.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("Pedestal_DoL_01")({
+  source = "Pedestal_DoL_01.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("PropAP10HangingLantern_02")({
+  source = "PropAP10HangingLantern_02.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("PropStar_01")({
+  source = "PropStar_01.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("PropStool_01")({
+  source = "PropStool_01.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("PropTikiTorch_01")({
+  source = "PropTikiTorch_01.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("Prop_AP14BouquetLarge_01")({
+  source = "Prop_AP14BouquetLarge_01.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("Prop_MusicShell")({
+  source = "Prop_MusicShell.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("Prop_WinterPillow_02")({
+  source = "Prop_WinterPillow_02.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("RockSimple_05")({
+  source = "RockSimple_05.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("SpStoneStick")({
+  source = "SpStoneStick.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("SphereCheap_01")({
+  source = "SphereCheap_01.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = false,
+  stripAnimation = false
+})
+resource("Mesh")("StoneBookLantern")({
+  source = "StoneBookLantern.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("StormCardClouds_02")({
+  source = "StormCardClouds_02.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("StormCardGlow_01")({
+  source = "StormCardGlow_01.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("StormCardLightning_01")({
+  source = "StormCardLightning_01.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = false,
+  stripAnimation = false
+})
+resource("Mesh")("StormCardLightning_02")({
+  source = "StormCardLightning_02.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = false,
+  stripAnimation = false
+})
+resource("Mesh")("StormCardLightning_03")({
+  source = "StormCardLightning_03.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = false,
+  stripAnimation = false
+})
+resource("Mesh")("StormCard_01b")({
+  source = "StormCard_01b.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("StormCard_02b")({
+  source = "StormCard_02b.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = false,
+  stripAnimation = false
+})
+resource("Mesh")("StormCard_02c")({
+  source = "StormCard_02c.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("StormCard_03b")({
+  source = "StormCard_03b.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("StormTempleCard")({
+  source = "StormTempleCard.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("Mesh")("UnitCylinder")({
+  source = "UnitCylinder.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = false,
+  stripAnimation = false
+})
+resource("Mesh")("WeaponSpear_02")({
+  source = "WeaponSpear_02.fbx",
+  computeOcclusions = false,
+  computeEdges = false,
+  computeAdjacency = false,
+  compressPositions = false,
+  compressUvs = false,
+  stripUv13 = false,
+  stripNormals = false,
+  forceIndex32 = false,
+  registerCollision = true,
+  stripAnimation = false
+})
+resource("AnimationPack")("CharKidAnimEmote_C")({})
+resource("AnimationPack")("CharSpiritCinematicAnim_A")({})
+resource("AnimationPack")("CharSpiritCinematicAnim_B")({})
+resource("AnimationPack")("CharSpiritCinematicAnim_C")({})
+resource("AnimationPack")("CharSpiritCinematicAnim_D")({})
+resource("AnimationPack")("CharSpiritMemoryPoses")({})
+resource("AnimationPack")("ColFatLaborGlobal")({})
+resource("AnimationPack")("MemDayWave")({})
+resourceref("Image")("AncestorBlue")
+resourceref("Image")("AvatarMaskBasicTex")
+resourceref("Image")("BasicGeoAtlas1")
+resourceref("Image")("BlueD3")
+resourceref("Image")("Brick")
+resourceref("Image")("BrickSh")
+resourceref("Image")("CharRampEvents")
+resourceref("Image")("CharRampKizunaAi")
+resourceref("Image")("CharRampS1")
+resourceref("Image")("CharRampS11")
+resourceref("Image")("CharRampS23")
+resourceref("Image")("CharRampS9")
+resourceref("Image")("CharSkyRayBasicTex")
+resourceref("Image")("CharSkyRayBasicTexSh")
+resourceref("Image")("CloudFarTex")
+resourceref("Image")("FriendshipStatue")
+resourceref("Image")("FriendshipStatueSh")
+resourceref("Image")("Gray")
+resourceref("Image")("GrayL1")
+resourceref("Image")("GrayL2")
+resourceref("Image")("OrbitCloudsSmall")
+resourceref("Image")("OrbitEndFlameStrip_02")
+resourceref("Image")("RedL2")
+resourceref("Image")("SkyRayCTex")
+resourceref("Image")("StoneBase")
+resourceref("Image")("StoneBaseMotif")
+resourceref("Image")("StoneBaseSh")
+resourceref("Image")("StoneGrunge2")
+resourceref("Image")("StoneRamp")
+resourceref("Image")("StormCard2")
+resourceref("Image")("StupaBell")
+resourceref("Image")("StupaBellSh")
+resourceref("Image")("UpNormal")
+resourceref("Image")("White")
+resource("LevelData")("NightDesert_Beach")({
+  source = "Levels/NightDesert_Beach/BstBaked.meshes",
+  lodToLoad = 0
+})
+resource("LevelObjects")("NightDesert_Beach")({
+  level = "NightDesert_Beach",
+  source = "Levels/NightDesert_Beach/Objects.level",
+  sourcesCount = 2,
+  sources = {
+    "Levels/NightDesert_Beach/Netease_Holiday_DaysofMidAutumn2023.level",
+    "Levels/NightDesert_Beach/Netease_Objects.level"
+  },
+  stripDebug = true
+})

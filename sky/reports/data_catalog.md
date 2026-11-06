@@ -1,0 +1,62 @@
+# Resources 数据表目录
+
+| file | size | root type |
+|---|---|---|
+| OutfitDefs.json | 1474.0 KB | list(1649) |
+| OutfitDefs_stripped.json | 710.6 KB | list(1649) |
+| NpcDefs.json | 698.4 KB | list(622) |
+| PlaceableDefs.json | 596.2 KB | list(458) |
+| MapDefs.json | 471.7 KB | list(19) |
+| OutfitDefs_Netease.json | 231.2 KB | list(128) |
+| WorldQuestDefs.json | 215.3 KB | list(368) |
+| PlaceableDefs_Netease.json | 195.5 KB | list(92) |
+| NpcDefs_Netease.json | 167.5 KB | list(69) |
+| Constellations.json | 143.7 KB | list(449) |
+| DailyQuestDefs.json | 137.0 KB | list(404) |
+| CollectibleDefs.json | 84.7 KB | list(248) |
+| DynamicMenuIODefs.json | 60.8 KB | list(233) |
+| BehaviorTrees/NPC_DailyQuestGiver.json | 44.1 KB | dict(4) |
+| BehaviorTrees/NPC_TrustCompanion.json | 36.0 KB | dict(3) |
+| DarknessSpawnWaveDefs.json | 28.2 KB | list(54) |
+| SocialFeedPrompts.json | 28.0 KB | list(98) |
+| OutfitTransform_Netease.json | 26.2 KB | list(67) |
+| BehaviorTrees/Behavior_GuardReact.json | 23.7 KB | dict(3) |
+| BehaviorTrees/NPC_PersonalityCarnivalGuest.json | 22.3 KB | dict(3) |
+| BehaviorTrees/Behavior_ReactToNearbyPlayer.json | 19.1 KB | dict(3) |
+| BehaviorTrees/NPC_PersonalityWander.json | 17.6 KB | dict(3) |
+| BehaviorTrees/NPC_HostileGuard.json | 16.2 KB | dict(3) |
+| BehaviorTrees/NPC_TGCEmployee.json | 15.6 KB | dict(3) |
+| CameraQuestDefs.json | 14.4 KB | list(15) |
+| DyeColorDefs.json | 14.3 KB | list(73) |
+| SeasonTemplate.json | 10.9 KB | list(92) |
+| StormSpawnerDefs.json | 9.9 KB | list(23) |
+| BehaviorTrees/NPC_AnnoyingKid.json | 9.1 KB | dict(3) |
+| BehaviorTrees/NPC_PersonalityARWheatVG.json | 8.7 KB | dict(3) |
+| RadianceSpawnDefs.json | 7.8 KB | list(22) |
+| BehaviorTrees/NPC_WaypointWanderReactToNearbyNpc.json | 6.7 KB | dict(3) |
+| QuestConfig.json | 5.3 KB | list(27) |
+| CreatureQuestWaveDefs.json | 5.3 KB | list(25) |
+| BehaviorTrees/NPC_WaypointWander.json | 4.9 KB | dict(3) |
+| BehaviorTrees/NPC_GuardIdle.json | 4.6 KB | dict(3) |
+| BehaviorTrees/NPC_WaypointIdle.json | 4.5 KB | dict(3) |
+| SheetSort_Netease.json | 4.2 KB | list(56) |
+| BehaviorTrees/NPC_GuardWander.json | 4.0 KB | dict(3) |
+| CreatureQuestDefs.json | 3.4 KB | list(16) |
+| DynamicMenuGroupDefs.json | 2.8 KB | list(21) |
+| BehaviorTrees/NPC_Wave.json | 2.7 KB | dict(3) |
+| BehaviorTrees/Behavior_OrbStatus.json | 2.7 KB | dict(3) |
+| BehaviorTrees/NPC_HuntPlayer.json | 2.6 KB | dict(3) |
+| AudienceEventDefs.json | 2.5 KB | list(10) |
+| BehaviorTrees/Behavior_Patrol.json | 1.9 KB | dict(3) |
+| TeleportBeacon.json | 1.4 KB | list(10) |
+| BehaviorTrees/Behavior_IdleStand.json | 1.3 KB | dict(3) |
+| CutsceneCaptureDefs_Netease.json | 1.0 KB | list(5) |
+| BehaviorTrees/Behavior_IdleLook.json | 1.0 KB | dict(3) |
+| BehaviorTrees/NPC_IdleReactToNearbyNpc.json | 1.0 KB | dict(3) |
+| ARAnchorPropertyDefs.json | 0.9 KB | dict(2) |
+| ARImageMarkerDefs.json | 0.6 KB | list(4) |
+| MessageTypes.json | 0.5 KB | list(7) |
+| QuestGroups.json | 0.2 KB | list(2) |
+| SkyCreditsDefs.json | 0.0 KB | list(0) |
+
+共 56 个 JSON 文件。
