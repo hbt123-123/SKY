@@ -1,12 +1,6 @@
-# 大体积原始包与二进制素材（保留生成脚本与清单，便于本地重建）
+# 仅排除原始包/解包目录与临时文件；素材本体随仓库上传
 .screenshots/
 .uploads/
 Sky-0.16.7-421589-android.apk
 sky/apk/
-sky/assets/audio/
-sky/assets/animations/
-sky/assets/fonts/
-sky/assets/meshes/
-sky/assets/textures/
-sky/assets/levels/*/*.glb
 __pycache__/
